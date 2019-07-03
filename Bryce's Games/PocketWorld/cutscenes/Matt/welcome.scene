@@ -1,0 +1,21 @@
+\j\mFelia Town=true0013
+Man: Yo wait up. (Press '\iAction')
+\p: What?
+Man: Figured I'd welcome you to Felia.
+\p: Oh, sure. Thanks.
+Man: Also, if you see anyone you want to talk to or
+Man:signs you want to read, go ahead and press '\iAction'.
+\p: ...How do you know what that means?
+Man: ...
+Man: I... I don't... know...
+\wOff
+\j0000=00000019
+\e
+Man: Hey! What do you think you're doing?!
+\p: What do you mean?
+Man: This world starts shifting and then you show up...
+Man: Don't you act like you didn't change anything.
+Man: I've got my eye on you...
+\p: ...
+\wOff
+\fwoodplease.scene

@@ -1,0 +1,9 @@
+Man: Howdy. You're a new face. The name's \t.
+\p: Nice to meet you \t.
+\t: This here's Felia Town. If you need anything,
+\t: try talking to the townsfolk.
+\t: They should be able to get you what you need.
+\t: Of course, they may ask for somethin' in return.
+\p: I'll keep that in mind, thanks.
+\wOff
+\fbytheway.scene

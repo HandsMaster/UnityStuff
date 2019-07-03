@@ -1,0 +1,140 @@
+{
+	"GameObjects" :
+	[
+		{
+			"gravity" : false,
+			"name" : "Fox",
+			"scale" :
+			{
+				"y" : 0.89999997615814209
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" :
+			{
+				"x" : 67.300003051757813,
+				"y" : -25.0
+			},
+			"scale" :
+			{
+				"x" : 30.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"name" : "Text",
+			"position" :
+			{
+				"y" : 20.0
+			},
+			"scale" :
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			},
+      "variables": 
+      {
+        "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "allignment": "center"
+      }
+		},
+		{
+			"name" : "Blank",
+			"position" :
+			{
+				"x" : -15.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Button",
+			"position" :
+			{
+				"y" : -20
+			},
+			"scale" :
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			},
+			"variables" :
+			{
+				"text" : " Hello "
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" :
+			{
+			    "x" : -20,
+				"y" : -20
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" :
+			{
+			    "x" : -30,
+				"y" : -20
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" :
+			{
+			    "x" : -30,
+				"y" : 0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Gold",
+			"position" :
+			{
+			    "x" : -40,
+				"y" : -20
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" :
+			{
+			    "x" : -40,
+				"y" : 0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Box",
+			"position" :
+			{
+			    "x" : -60,
+				"y" : -20
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Spider",
+			"position" :
+			{
+			    "x" : -80,
+				"y" : -20
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "DroppingPlatform",
+			"position" :
+			{
+			    "x" : -100,
+				"y" : -20
+			}
+		}
+	]
+}

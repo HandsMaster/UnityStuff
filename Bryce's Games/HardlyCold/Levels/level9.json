@@ -1,0 +1,124 @@
+{
+    "nextlevel": "levelend.json",
+    "player": {
+        "x": 4,
+        "y": 3
+    },
+    "goal": {
+        "x": 14,
+        "y": 2
+    },
+    "enemies": [
+        {
+            "x": 1,
+            "y": 8,
+            "type": "guard",
+            "movetime": 1500
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "type": "guard",
+            "movetime": 1500
+        }
+    ],
+    "keys": [
+        {
+            "x": 24,
+            "y": 5,
+            "color": 0
+        },
+        {
+            "x": 22,
+            "y": 5,
+            "color": 0
+        },
+        {
+            "x": 24,
+            "y": 13,
+            "color": 1
+        },
+        {
+            "x": 24,
+            "y": 4,
+            "color": 2
+        }
+    ],
+    "doors": [
+        {
+            "x": 24,
+            "y": 7,
+            "color": 0,
+            "open": true
+        },
+        {
+            "x": 24,
+            "y": 12,
+            "color": 1,
+            "open": false
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "color": 1,
+            "open": false
+        },
+        {
+            "x": 14,
+            "y": 4,
+            "color": 2,
+            "open": false
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "color": 2,
+            "open": true
+        }
+    ],
+    "text": [
+        {
+            "text": "Level(9)::Flee();",
+            "x": 640,
+            "y": 520,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        },
+        {
+            "text": "//tk: take",
+            "x": 900,
+            "y": 128,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "WDDDDDDDDDW       W        WDDDDDDDDDDDW",
+        "WdddddddddW       W        WdddddddddddW",
+        "WdddddddddW       W        WdddddddddddW",
+        "WdddddddddWwww wwwW        WdddddddddddW",
+        "WdddddddddddddddddW        WdddddddddddW",
+        "WdddddddddddddddddW        WdddddddddddW",
+        "WwwwdwwwwwwwwwdwwwWwwwww wwWdddddddddddW",
+        "W       W         W        WdddddddddddW",
+        "W       W         W        WdddddddddddW",
+        "W       W ww      W        WdddddddddddW",
+        "W          W      W        WdddddddddddW",
+        "W          WWWWWWWWwwwww wwWdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "WwwwwwwwwwwwwwwwwwwwwwwwwwwWdddddddddddW",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDDdddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "W                                      W",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+}

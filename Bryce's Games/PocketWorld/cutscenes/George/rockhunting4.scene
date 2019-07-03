@@ -1,0 +1,42 @@
+\j\b4Stone>00090005
+\p: (I should probably come back with at least 10 stones)
+\P: (Don't want to deal with another yapping)
+\frockhunting4.scene
+\e
+\j\b4Stone>00290016
+\p: Here's some stones for you, old man.
+\t: Why, thank you! I'm sure I can find a good stone in this pile.
+\p: So, any chance I could get a reward?
+\t: Of course. Here's a gem for you.
+\g0010Stone
+\d01Gems
+\p: Wow. Trading a dozen rocks for one. Great deal.
+\t: Yes, but this rock's shiny.
+\fsortingrocks.scene
+\e
+\j\b4Stone>00990028
+\p: Here's a lump of lumps.
+\t: My! So many to choose from!
+\p: Pretty great, right? So, about a reward...
+\g0030Stone
+\d03Gems
+\t: Here! Take my finest gems!
+\p: Somehow I think you got the better end of the deal.
+\t: Tends to work that way, son.
+\fsortingrocks.scene
+\e
+\p: One ton of stone shipped to a Mr. \t.
+\t: Where am I going to store all of these?!
+\p: Look, man, you wanted stones.
+\p: I figured giving you all \bStones would be a bit much.
+\t: Point taken.
+\p: So, any chance I could get a reward to match the size of my donation?
+\t: I can try. Hold on...
+\g0100Stone
+\d10Gems
+\t: Here's some gems for your effort.
+\p: ...
+\t: Something the matter?
+\p: Just having an existential crisis.
+\t: It happens.
+\fsortingrocks.scene

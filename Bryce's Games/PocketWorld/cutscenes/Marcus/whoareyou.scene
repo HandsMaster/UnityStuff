@@ -1,0 +1,10 @@
+Man: Stop where you are.
+\p: I'm stopped, I'm stopped.
+Man: What are you doing here?!
+\p: Just checking out the forest.
+Man: Watch yourself. You don't want to be caught on the sharp end of a rock.
+\p: ...
+Man: I mean from tripping.
+\p: Right.
+\wOff
+\fbutwhoareyou.scene

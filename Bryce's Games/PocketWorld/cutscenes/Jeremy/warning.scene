@@ -1,0 +1,12 @@
+Man: Hey, now.
+\p: Hm?
+Man: The name's \t.
+\t: Down that way's the Sanlow Cliffside.
+\t: I'd hate to see anything happen down there.
+\p: ...
+\p: What do you mean by that?
+\t: Just... be careful.
+\p: Got it. Thanks \t.
+\t: ...
+\wOff
+\fwaiting.scene

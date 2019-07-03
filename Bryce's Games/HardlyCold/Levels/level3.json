@@ -1,0 +1,82 @@
+{
+    "nextlevel": "level4.json",
+    "player": {
+        "x": 4,
+        "y": 2
+    },
+    "goal": {
+        "x": 24,
+        "y": 6
+    },
+    "enemies": [
+        {
+            "x": 15,
+            "y": 6,
+            "type": "basic",
+            "movetime": 2000
+        },
+        {
+            "x": 16,
+            "y": 6,
+            "type": "basic",
+            "movetime": 2000
+        },
+        {
+            "x": 16,
+            "y": 7,
+            "type": "basic",
+            "movetime": 2000
+        },
+        {
+            "x": 18,
+            "y": 7,
+            "type": "basic",
+            "movetime": 2000
+        }
+    ],
+    "text": [
+        {
+            "text": "Level(3)::Alias();",
+            "x": 800,
+            "y": 32,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        },
+        {
+            "text": "//Each command has a shorter alias\n//mv u: move up",
+            "x": 96,
+            "y": 480,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "W     WDDWWWWWWWWWWWWWWWDDDDDDDDDDDDDDDW",
+        "W     WddW      W      WdddddddddddddddW",
+        "W     WddW             WdddddddddddddddW",
+        "W     W  W      w      W    dddddddddddW",
+        "W     WWWWwww wwWwww wwWWWWWdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "Wwww  wwwwwww wwwwwwwwwwwwwWdddddddddddW",
+        "WDW      W      WDDDDDDDDDDDdddddddddddW",
+        "WdW             WddddddddddddddddddddddW",
+        "WdW      w      WddddddddddddddddddddddW",
+        "WdWwwwwwwWwwwwwwWddddddddddddddddddddddW",
+        "WdDDDDDDDDDDDDDDDddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "W                                      W",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+}

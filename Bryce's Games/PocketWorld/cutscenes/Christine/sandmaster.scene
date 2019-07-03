@@ -1,0 +1,15 @@
+\p: I got the rocks you give 'em the socks.
+\j\b4Gems>00090011
+\t: What?
+\p: I don't know.
+\p: It rhymed?
+\p: Figured it was good enough.
+\t: No, I mean...
+\t: This isn't enough gems.
+\p: Oh...
+\t: Yeah, I need at least 10 to crush them up.
+\e
+\t: Here's the socks!
+\g0010Gems
+\d99Sand
+\p: Thanks, \t.

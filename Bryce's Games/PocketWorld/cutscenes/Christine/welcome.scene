@@ -1,0 +1,12 @@
+Woman: Hey there, fella.
+\p: Howdy. You are?
+Woman: The name's \t.
+\p: Anything you need done?
+\t: Right now, nothing really.
+\t: If you happen to need sand, though, I can do that.
+\t: Make it out of rocks.
+\p: So I just get you some rocks and you give me sand?
+\t: Gotta be shiny rocks though.
+\t: I believe the people in Felia call them 'gems.'
+\p: That's it.
+\fsandmaster.scene

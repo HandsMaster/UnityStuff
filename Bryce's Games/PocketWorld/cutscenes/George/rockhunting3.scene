@@ -1,0 +1,18 @@
+\j\b4Stone=00000013
+\p: Got another stone.
+\t: Oh, this is a good one!
+\p: Perfect!
+\t: Hang on, there's a chip in it.
+\p: I'm collecting these by breaking them off a mountain!
+\p: They can only be so perfect!
+\p: Fine, how about I bring you a bunch of stones.
+\p: Then you can find the best one.
+\t: That sounds like a good idea!
+\p: Alright, be right back with some rocks.
+\g0001Stone
+\frockhunting4.scene
+\e
+\p: Why can't you just get a stone yourself?
+\t: I'm busy watching my grandkids!
+\p: You mean the ones you're looking away from most of the time?
+\t: You can only ask so much of a man!

@@ -1,0 +1,56 @@
+{
+	"meshinfo" :
+	[
+		{
+			"affine" :
+			[
+				[ 1.0, 0.0, 0.0, 0.0 ],
+				[ 0.0, 1.0, 0.0, 0.0 ],
+				[ 0.0, 0.0, 1.0, 0.0 ],
+				[ 0.0, 0.0, 0.0, 1.0 ]
+			],
+			"color" :
+			[
+				{
+					"_comment" : "brown",
+					"alpha" : 1,
+					"blue" : 0.0,
+					"green" : 0.18,
+					"red" : 0.4
+				},
+				{
+					"_comment" : "orange",
+					"alpha" : 1,
+					"blue" : 0.0,
+					"green" : 0.35,
+					"red" : 1
+				},
+				{
+					"_comment" : "light orange",
+					"alpha" : 1,
+					"blue" : 0.26,
+					"green" : 0.7,
+					"red" : 1
+				},
+				{
+					"_comment" : "pink",
+					"alpha" : 1,
+					"blue" : 0.8,
+					"green" : 0.66,
+					"red" : 1
+				},
+				{
+					"_comment" : "white",
+					"alpha" : 1,
+					"blue" : 1,
+					"green" : 1,
+					"red" : 1
+				}
+			],
+			"meshpath" : "Fox",
+			"name" : "Fox"
+		}
+	],
+	"name" : "Fox",
+	"version" : 2
+}

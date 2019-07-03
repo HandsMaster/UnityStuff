@@ -1,0 +1,142 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"model" : "Lose Background",
+			"name" : "MainMenuBackground",
+			"position" : 
+			{
+				"x" : -128.0,
+				"y" : -72.0
+			},
+			"scale" : 
+			{
+				"x" : 6.0999999046325684,
+				"y" : 4.8000001907348633
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 0.0,
+					"y" : 0.0
+				}
+			},
+			"name" : "Text",
+			"position" : 
+			{
+				"y" : 30.0
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 20.0
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "you lost"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 4.9000000953674316,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 9.8000001907348633,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -37.600002288818359,
+				"y" : -16.0
+			},
+			"scale" : 
+			{
+				"x" : 7.5,
+				"y" : 7.5
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "MainMenu",
+				"text" : "Return to Menu"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 7.0,
+					"y" : 7.0
+				}
+			},
+			"gravity" : false,
+			"name" : "SpiderV",
+			"position" : 
+			{
+				"x" : 85.400001525878906,
+				"y" : 13.118410110473633
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 7.0,
+					"y" : 7.0
+				}
+			},
+			"gravity" : false,
+			"name" : "SpiderV",
+			"position" : 
+			{
+				"x" : 117.80001068115234,
+				"y" : -11.890962600708008
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 7.0,
+					"y" : 7.0
+				}
+			},
+			"gravity" : false,
+			"name" : "SpiderV",
+			"position" : 
+			{
+				"x" : -101.79999542236328,
+				"y" : -10.571466445922852
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		}
+	]
+}

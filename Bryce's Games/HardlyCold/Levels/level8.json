@@ -1,0 +1,97 @@
+{
+    "nextlevel": "level9.json",
+    "player": {
+        "x": 4,
+        "y": 3
+    },
+    "goal": {
+        "x": 22,
+        "y": 1
+    },
+    "enemies": [
+        {
+            "x": 21,
+            "y": 8,
+            "type": "guard",
+            "movetime": 3000
+        },
+        {
+            "x": 25,
+            "y": 12,
+            "type": "guard",
+            "movetime": 3000
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "type": "guard",
+            "movetime": 3000
+        },
+        {
+            "x": 17,
+            "y": 12,
+            "type": "basic",
+            "movetime": 3000
+        }
+    ],
+    "keys": [
+        {
+            "x": 4,
+            "y": 8,
+            "color": 0
+        }
+    ],
+    "doors": [
+        {
+            "x": 22,
+            "y": 3,
+            "color": 0,
+            "open": false
+        }
+    ],
+    "text": [
+        {
+            "text": "Level(8)::Snatch();",
+            "x": 900,
+            "y": 128,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        },
+        {
+            "text": "//Escape will clear the current command",
+            "x": 64,
+            "y": 520,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "WDDDDDDDDDDDDDDDDW         WDDDDDDDDDDDW",
+        "WddddddddddddddddW         WdddddddddddW",
+        "WddddddddddddddddWwwww wwwwWdddddddddddW",
+        "WddddddddddddddddDDDDDdDDDDWdddddddddddW",
+        "WddddddddddddddddddddddddddWdddddddddddW",
+        "WddddddddddddddddddddddddddWdddddddddddW",
+        "WwwwdwwwwwwwwwwwwwwwwwwwwdwWdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "WwwwwwwwwwwwwwwwwwwwwwwwwwwWdddddddddddW",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDDdddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "W                                      W",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+}

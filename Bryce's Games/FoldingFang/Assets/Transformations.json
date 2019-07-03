@@ -1,0 +1,81 @@
+{
+  "DEFAULTNODE":
+  {
+    "UP":
+    {
+      "_COMMENT":"FOX",
+      "TRANSFORM":
+      {
+        "MODEL":"Fox",
+        "MAXSPEED":70.0,
+        "JUMPSPEED":120.0,
+        "TRANSFORMATION":1,
+        "COLLIDERTYPE":2,
+        "COLLIDEROFFSETX":0,
+        "COLLIDEROFFSETY":0,
+        "COLLIDERWIDTH":20,
+        "COLLIDERHEIGHT":20,
+        "SCALEX":1,
+        "SCALEY":1
+      }
+    },
+
+    "RIGHT":
+    {
+      "_COMMENT":"BEAR",
+      "TRANSFORM":
+      {
+        "MODEL":"Bear",
+        "MAXSPEED":70.0,
+        "JUMPSPEED":120.0,
+        "TRANSFORMATION":2,
+        "COLLIDERTYPE":2,
+        "COLLIDEROFFSETX":1.25,
+        "COLLIDEROFFSETY":-1.5,
+        "COLLIDERWIDTH":12.5,
+        "COLLIDERHEIGHT":17,
+        "SCALEX":2,
+        "SCALEY":2
+      }
+    },
+
+    "LEFT":
+    {
+      "_COMMENT":"BUNNY",
+      "TRANSFORM":
+      {
+        "MODEL":"Bunny",
+        "MAXSPEED":70.0,
+        "JUMPSPEED":120.0,
+        "TRANSFORMATION":3,
+        "COLLIDERTYPE":2,
+        "COLLIDEROFFSETX":-0.05,
+        "COLLIDEROFFSETY":0.05,
+        "COLLIDERWIDTH":0.7,
+        "COLLIDERHEIGHT":0.9,
+        "SCALEX":10,
+        "SCALEY":10
+      }
+    },
+
+    "DRAGON":
+    {
+      "_COMMENT":"DRAGON TRANSFORM",
+      "TRANSFORM":
+      {
+        "MODEL":"Dragon",
+        "MAXSPEED":70.0,
+        "JUMPSPEED":120.0,
+        "TRANSFORMATION":4,
+        "COLLIDERTYPE":7,
+        "COLLIDEROFFSETX":1.9,
+        "COLLIDEROFFSETY":-0.4,
+        "COLLIDERWIDTH":5.5,
+        "COLLIDERHEIGHT":5.2,
+        "SCALEX":7.5,
+        "SCALEY":7.5
+      }
+    }
+
+  }
+}

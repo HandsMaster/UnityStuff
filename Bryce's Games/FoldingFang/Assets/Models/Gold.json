@@ -1,0 +1,50 @@
+{
+  "meshinfo": [
+    {
+      "affine": [
+        [ 1.0, 0.0, 0.0, 0.0 ],
+        [ 0.0, 1.0, 0.0, 0.0 ],
+        [ 0.0, 0.0, 1.0, 0.0 ],
+        [ 0.0, 0.0, 0.0, 1.0 ]
+      ],
+      "color": [
+        {
+          "_comment": "light yellow",
+          "_comment": "251 237 83",
+          "alpha": 1,
+          "red": 0.984,
+          "green": 0.929,
+          "blue": 0.325
+        },
+        {
+          "_comment": "light orange",
+          "_comment": "253 220 84",
+          "alpha": 1,
+          "red": 0.992,
+          "green": 0.862,
+          "blue": 0.329
+        },
+        {
+          "_comment": "yellow",
+          "_comment": "251 228 9",
+          "alpha": 1,
+          "red": 0.984,
+          "green": 0.894,
+          "blue": 0.035
+        },
+        {
+          "_comment": "orange",
+          "_comment": "255 200 10",
+          "alpha": 1,
+          "red": 1.0,
+          "green": 0.784,
+          "blue": 0.039
+        }
+      ],
+      "meshpath": "Gold",
+      "name": "Gold"
+    }
+  ],
+  "name": "Gold",
+  "version": 2
+}

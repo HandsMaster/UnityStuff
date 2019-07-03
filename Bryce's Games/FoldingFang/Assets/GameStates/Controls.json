@@ -1,0 +1,436 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"name" : "BackgroundMiddle",
+			"position" : 
+			{
+				"x" : 11.90000057220459,
+				"y" : -537.0
+			},
+			"scale" : 
+			{
+				"x" : 18.700000762939453,
+				"y" : 33.400001525878906
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -49.700000762939453,
+				"y" : 52.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 19.80000114440918,
+				"y" : 15.100000381469727
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Options"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.0,
+				"y" : 26.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 12.5,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Controls",
+				"text" : "Controls"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.30000305175781,
+				"y" : 5.6999998092651367
+			},
+			"scale" : 
+			{
+				"x" : 12.500002861022949,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Sounds",
+				"text" : "Sounds"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.5,
+				"y" : -15.300000190734863
+			},
+			"scale" : 
+			{
+				"x" : 12.0,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Video",
+				"text" : "Video"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -57.200000762939453,
+				"y" : -67.099998474121094
+			},
+			"scale" : 
+			{
+				"x" : 11.999999046325684,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "MainMenu",
+				"text" : "Return To Menu"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "optionbox",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 40.200000762939453,
+				"y" : -2.0999984741210938
+			},
+			"scale" : 
+			{
+				"x" : 157.0,
+				"y" : 96.200004577636719
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 17.5,
+				"y" : 33.0
+			},
+			"scale" : 
+			{
+				"x" : 9.0,
+				"y" : 8.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Controls"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -31.399999618530273,
+				"y" : 17.899999618530273
+			},
+			"scale" : 
+			{
+				"x" : 9.0,
+				"y" : 8.9000005722045898
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Jump"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -29.100000381469727,
+				"y" : 5.4000000953674316
+			},
+			"scale" : 
+			{
+				"x" : 7.2000002861022949,
+				"y" : 6.2000002861022949
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Move"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -30.30000114440918,
+				"y" : -1.6000000238418579
+			},
+			"scale" : 
+			{
+				"x" : 6.5999999046325684,
+				"y" : 5.8000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Right"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -28.399999618530273,
+				"y" : -22.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : 6.5999999046325684,
+				"y" : 5.8000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Left"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -29.100000381469727,
+				"y" : -15.100000381469727
+			},
+			"scale" : 
+			{
+				"x" : 7.2000002861022949,
+				"y" : 6.2000002861022949
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Move"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 31.5,
+				"y" : 20.399999618530273
+			},
+			"scale" : 
+			{
+				"x" : 5.4000000953674316,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Fox"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 17.700000762939453,
+				"y" : 13.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 4.4000000953674316
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Transform"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 28.600000381469727,
+				"y" : 3.9000000953674316
+			},
+			"scale" : 
+			{
+				"x" : 5.4000000953674316,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Bear"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 17.30000114440918,
+				"y" : -2.7000000476837158
+			},
+			"scale" : 
+			{
+				"x" : 6.0,
+				"y" : 4.4000000953674316
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Transform"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 27.200000762939453,
+				"y" : -13.300000190734863
+			},
+			"scale" : 
+			{
+				"x" : 5.4099998474121094,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Bunny"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 17.80000114440918,
+				"y" : -21.30000114440918
+			},
+			"scale" : 
+			{
+				"x" : 5.7000002861022949,
+				"y" : 4.9000000953674316
+			},
+			"variables" : 
+			{
+				"allignment" : "Center",
+				"text" : "Transform"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : 83.400001525878906,
+				"y" : -45.900001525878906
+			},
+			"scale" : 
+			{
+				"x" : 8.9999990463256836,
+				"y" : 7.7000002861022949
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "",
+				"text" : "Apply"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -34.900001525878906,
+				"y" : -45.899993896484375
+			},
+			"scale" : 
+			{
+				"x" : 7.1999998092651367,
+				"y" : 7.7000002861022949
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "",
+				"text" : "Default"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 71.800003051757813,
+				"y" : 9.1999998092651367
+			},
+			"scale" : 
+			{
+				"x" : 5.9000000953674316,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Attack"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 71.800003051757813,
+				"y" : -7.9000000953674316
+			},
+			"scale" : 
+			{
+				"x" : 5.9000000953674316,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Shoot"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.5,
+				"y" : -36.099998474121094
+			},
+			"scale" : 
+			{
+				"x" : 12.0,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Cheats",
+				"text" : "Cheats"
+			}
+		}
+	]
+}

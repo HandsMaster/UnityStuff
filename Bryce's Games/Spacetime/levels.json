@@ -1,0 +1,94 @@
+{
+    "levels": [
+        {
+            "name": "Lollypop",
+            "scene": "Level1-1",
+            "preview": "Levels/Level1-1",
+            "scale": 1.0
+        },
+        {
+            "name": "Infinite",
+            "scene": "Level1-2",
+            "preview": "Levels/Level1-2",
+            "scale": 4.0
+        },
+        {
+            "name": "Towers",
+            "scene": "Level1-3",
+            "preview": "Levels/Level1-3",
+            "scale": 2.0
+        },
+        {
+            "name": "Flower",
+            "scene": "Level1-4",
+            "preview": "Levels/Level1-4",
+            "scale": 2.5
+        },
+        {
+            "name": "Tidepool",
+            "scene": "Level1-5",
+            "preview": "Levels/Level1-5",
+            "scale": 4.0
+        },
+        {
+            "name": "Molecule",
+            "scene": "Level1-6",
+            "preview": "Levels/Level1-6",
+            "scale": 4.0
+        },
+        {
+            "name": "Starswirl",
+            "scene": "Level1-7",
+            "preview": "Levels/Level1-7",
+            "scale": 1.0
+        },
+        {
+            "name": "One Small Step",
+            "scene": "Level2-1",
+            "preview": "Levels/Level2-1",
+            "scale": 1.0
+        },
+        {
+            "name": "Descent",
+            "scene": "Level2-2",
+            "preview": "Levels/Level2-2",
+            "scale": 2.0
+        },
+        {
+            "name": "Spiral",
+            "scene": "Level2-3",
+            "preview": "Levels/Level2-3",
+            "scale": 1.0
+        },
+        {
+            "name": "Rotation",
+            "scene": "Level2-4",
+            "preview": "Levels/Level2-4",
+            "scale": 2.0
+        },
+        {
+            "name": "Crosses",
+            "scene": "Level2-5",
+            "preview": "Levels/Level2-5",
+            "scale": 2.0
+        },
+        {
+            "name": "Jigsaw",
+            "scene": "Level2-6",
+            "preview": "Levels/Level2-6",
+            "scale": 1.0
+        },
+        {
+            "name": "Big Machine",
+            "scene": "Level3-1",
+            "preview": "Levels/Level3-1",
+            "scale": 0.4000000059604645
+        },
+        {
+            "name": "Funnel",
+            "scene": "Level3-2",
+            "preview": "Levels/Level3-2",
+            "scale": 0.5
+        }
+    ]
+}

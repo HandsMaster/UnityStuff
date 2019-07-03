@@ -1,0 +1,507 @@
+{
+	"boundingbox" : 
+	{
+		"x" : 42.0,
+		"y" : 30.0
+	},
+	"center" : 
+	{
+		"x" : 21.0,
+		"y" : 15.0
+	},
+	"edge" : 
+	[
+
+	],
+  "face":
+  [
+
+    {
+      "_comment": "sky",
+      "point1": 2,
+      "point2": 4,
+      "point3": 44,
+      "color": 1
+    },
+    {
+      "_comment": "sky",
+      "point1": 4,
+      "point2": 15,
+      "point3": 44,
+      "color": 2
+    },
+    {
+      "_comment": "sky",
+      "point1": 4,
+      "point2": 8,
+      "point3": 15,
+      "color": 0
+    },
+    {
+      "_comment": "sky",
+      "point1": 44,
+      "point2": 15,
+      "point3": 45,
+      "color": 1
+    },
+    {
+      "_comment": "sky",
+      "point1": 15,
+      "point2": 23,
+      "point3": 45,
+      "color": 2
+    },
+    {
+      "_comment": "sky",
+      "point1": 15,
+      "point2": 20,
+      "point3": 23,
+      "color": 0
+    },
+    {
+      "_comment": "mountain",
+      "point1": 0,
+      "point2": 3,
+      "point3": 1,
+      "color": 7
+    },
+    {
+      "_comment": "mountain",
+      "point1": 1,
+      "point2": 3,
+      "point3": 5,
+      "color": 7
+    },
+    {
+      "_comment": "mountain",
+      "point1": 1,
+      "point2": 5,
+      "point3": 2,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 2,
+      "point2": 5,
+      "point3": 4,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 3,
+      "point2": 6,
+      "point3": 5,
+      "color": 5
+    },
+    {
+      "_comment": "mountain",
+      "point1": 6,
+      "point2": 9,
+      "point3": 4,
+      "color": 4
+    },
+    {
+      "_comment": "mountain",
+      "point1": 3,
+      "point2": 11,
+      "point3": 7,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 7,
+      "point2": 11,
+      "point3": 10,
+      "color": 5
+    },
+    {
+      "_comment": "mountain",
+      "point1": 8,
+      "point2": 9,
+      "point3": 10,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 10,
+      "point2": 11,
+      "point3": 16,
+      "color": 4
+    },
+    {
+      "_comment": "mountain",
+      "point1": 10,
+      "point2": 12,
+      "point3": 13,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 8,
+      "point2": 13,
+      "point3": 15,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 15,
+      "point2": 13,
+      "point3": 18,
+      "color": 5
+    },
+    {
+      "_comment": "mountain",
+      "point1": 13,
+      "point2": 12,
+      "point3": 14,
+      "color": 5
+    },
+    {
+      "_comment": "mountain",
+      "point1": 13,
+      "point2": 14,
+      "point3": 18,
+      "color": 5
+    },
+    {
+      "_comment": "mountain",
+      "point1": 14,
+      "point2": 16,
+      "point3": 17,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 14,
+      "point2": 17,
+      "point3": 18,
+      "color": 5
+    },
+    {
+      "_comment": "mountain",
+      "point1": 15,
+      "point2": 17,
+      "point3": 20,
+      "color": 4
+    },
+    {
+      "_comment": "mountain",
+      "point1": 17,
+      "point2": 19,
+      "point3": 20,
+      "color": 4
+    },
+    {
+      "_comment": "mountain",
+      "point1": 19,
+      "point2": 22,
+      "point3": 23,
+      "color": 6
+    },
+    {
+      "_comment": "mountain",
+      "point1": 19,
+      "point2": 21,
+      "point3": 22,
+      "color": 7
+    },
+    {
+      "_comment": "left cloud",
+      "point1": 24,
+      "point2": 29,
+      "point3": 28,
+      "color": 9
+    },
+    {
+      "_comment": "left cloud",
+      "point1": 25,
+      "point2": 24,
+      "point3": 28,
+      "color": 9
+    },
+    {
+      "_comment": "left cloud",
+      "point1": 26,
+      "point2": 25,
+      "point3": 28,
+      "color": 9
+    },
+    {
+      "_comment": "left cloud",
+      "point1": 29,
+      "point2": 30,
+      "point3": 31,
+      "color": 8
+    },
+    {
+      "_comment": "left cloud",
+      "point1": 29,
+      "point2": 31,
+      "point3": 32,
+      "color": 8
+    },
+    {
+      "_comment": "left cloud",
+      "point1": 29,
+      "point2": 32,
+      "point3": 27,
+      "color": 8
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 33,
+      "point2": 37,
+      "point3": 38,
+      "color": 9
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 34,
+      "point2": 33,
+      "point3": 38,
+      "color": 9
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 35,
+      "point2": 34,
+      "point3": 38,
+      "color": 9
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 36,
+      "point2": 35,
+      "point3": 38,
+      "color": 9
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 37,
+      "point2": 40,
+      "point3": 41,
+      "color": 8
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 37,
+      "point2": 41,
+      "point3": 42,
+      "color": 8
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 37,
+      "point2": 42,
+      "point3": 43,
+      "color": 8
+    },
+    {
+      "_comment": "right cloud",
+      "point1": 37,
+      "point2": 43,
+      "point3": 39,
+      "color": 8
+    }
+  ],
+  "name": "Middle",
+	"version" : 2,
+  "vertex": [
+    {
+      "_comment": "0",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 5
+    },
+    {
+      "x": 0,
+      "y": 11
+    },
+    {
+      "x": 4,
+      "y": 0
+    },
+    {
+      "x": 6,
+      "y": 17
+    },
+    {
+      "_comment": "5",
+      "x": 8,
+      "y": 9
+    },
+    {
+      "x": 9.2,
+      "y": 4.2
+    },
+    {
+      "x": 11,
+      "y": 6
+    },
+    {
+      "x": 13,
+      "y": 10
+    },
+    {
+      "x": 14,
+      "y": 9
+    },
+    {
+      "_comment": "10",
+      "x": 15,
+      "y": 10
+    },
+    {
+      "x": 17,
+      "y": 0
+    },
+    {
+      "x": 17.66,
+      "y": 7.33
+    },
+    {
+      "x": 19,
+      "y": 10
+    },
+    {
+      "x": 20,
+      "y": 5
+    },
+    {
+      "_comment": "15",
+      "x": 25,
+      "y": 22
+    },
+    {
+      "x": 25,
+      "y": 0
+    },
+    {
+      "x": 29,
+      "y": 0
+    },
+    {
+      "x": 27.182,
+      "y": 10
+    },
+    {
+      "x": 31,
+      "y": 0
+    },
+    {
+      "_comment": "20",
+      "x": 39,
+      "y": 8
+    },
+    {
+      "x": 42,
+      "y": 0
+    },
+    {
+      "x": 42,
+      "y": 5
+    },
+    {
+      "x": 42,
+      "y": 11
+    },
+    {
+      "x": 12,
+      "y": 21
+    },
+    {
+      "_comment": "25",
+      "x": 12,
+      "y": 22
+    },
+    {
+      "x": 13,
+      "y": 23
+    },
+    {
+      "x": 15,
+      "y": 24
+    },
+    {
+      "x": 14,
+      "y": 22
+    },
+    {
+      "x": 13,
+      "y": 20
+    },
+    {
+      "_comment": "30",
+      "x": 17,
+      "y": 20
+    },
+    {
+      "x": 18,
+      "y": 22
+    },
+    {
+      "x": 17,
+      "y": 24
+    },
+    {
+      "x": 32,
+      "y": 24
+    },
+    {
+      "x": 32,
+      "y": 25
+    },
+    {
+      "_comment": "35",
+      "x": 33,
+      "y": 26
+    },
+    {
+      "x": 34,
+      "y": 26
+    },
+    {
+      "x": 33,
+      "y": 23
+    },
+    {
+      "x": 35,
+      "y": 25
+    },
+    {
+      "x": 37,
+      "y": 27
+    },
+    {
+      "_comment": "40",
+      "x": 40,
+      "y": 23
+    },
+    {
+      "x": 41,
+      "y": 24
+    },
+    {
+      "x": 41,
+      "y": 25
+    },
+    {
+      "x": 40,
+      "y": 27
+    },
+    {
+      "_comment": "left top corner",
+      "x": 0,
+      "y": 30
+    },
+    {
+      "_comment": "45, right top corner",
+      "x": 42,
+      "y": 30
+    }
+
+  ]
+}

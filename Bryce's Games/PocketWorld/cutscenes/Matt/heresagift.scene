@@ -1,0 +1,14 @@
+\p: ...
+\t: ...
+\p: You wanna, like, give me something?
+\t: Why?
+\p: You know, for helping you?
+\t: Oh, right! Let's see here...
+\d01Gems
+\t: Here's a gem I found.
+\p: So... what do I do with this?
+\t: Push '\iWorld' to open the world menu.
+\t: You can grow the world with the materials you find.
+\p: Going to stop questioning. Thanks for the help, \t.
+\t: No problem, buddy!
+\fthanksforthewood.scene

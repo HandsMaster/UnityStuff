@@ -1,0 +1,18 @@
+\t: SAND!
+\p: What?
+\t: I want sand!
+\p: Why?
+\t: I made a sandcastle at the beach but I forgot
+\t: to bring it back with me.
+\p: I don't think it would hold up if you took it with you.
+\p: I think it would just...
+\p: Crumble.
+\t: Shut up! I want sand!
+\j\mSanlow Beach=true0016
+\p: I don't even know where to find sand.
+\t: Sanlow Beach is on the other side of the cave.
+\t: But Dad says I can't go alone.
+\p: I guess I'll be going over there to bring you some sand.
+\t: Yay! Sand!
+\wOff
+\fsandcastle.scene

@@ -1,0 +1,33 @@
+{
+	"meshinfo" : 
+	[
+		{
+			"affine" : 
+			[
+				[ 1.0, 0.0, 0.0, 0.0 ],
+				[ 0.0, 1.0, 0.0, 0.0 ],
+				[ 0.0, 0.0, 1.0, 0.0 ],
+				[ 0.0, 0.0, 0.0, 1.0 ]
+			],
+			"color" : 
+			[
+				{
+					"alpha" : 1.0,
+					"blue" : 0.82745099067687988,
+					"green" : 0.0,
+					"red" : 1.0
+				},
+				{
+					"alpha" : 0.0,
+					"blue" : 0.0,
+					"green" : 0.0,
+					"red" : 0.0
+				}
+			],
+			"meshpath" : "StateChangeTime",
+			"name" : "Rect"
+		}
+	],
+	"name" : "StateChangeTime",
+	"version" : 2
+}

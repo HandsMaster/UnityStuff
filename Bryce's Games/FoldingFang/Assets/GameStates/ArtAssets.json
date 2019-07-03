@@ -1,0 +1,916 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"name" : "Boss",
+			"position" : 
+			{
+				"x" : 101.76454925537109,
+				"y" : -7.7645339965820313
+			},
+			"scale" : 
+			{
+				"x" : 10.0,
+				"y" : 20.0
+			},
+			"variables" : 
+			{
+				"next state" : ""
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Bush2",
+			"name" : "BunnyBreakable",
+			"position" : 
+			{
+				"x" : 21.199996948242188,
+				"y" : -7.8742218017578125
+			},
+			"scale" : 
+			{
+				"x" : 12.600000381469727,
+				"y" : 20.100000381469727
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Tree10",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -75.289634704589844,
+				"y" : 20.113410949707031
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 78.900001525878906
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "CaveSpike1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -201.62794494628906,
+				"y" : 5.0282363891601563
+			},
+			"scale" : 
+			{
+				"x" : 28.30000114440918,
+				"y" : 58.400001525878906
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -230.49456787109375,
+				"y" : 97.39495849609375
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -290.25335693359375,
+				"y" : 15.965003967285156
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "MovableRock1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -358.860107421875,
+				"y" : 16.134185791015625
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 2.0999999046325684,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 4.1999998092651367,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -460.70761108398438,
+				"y" : 11.200347900390625
+			},
+			"scale" : 
+			{
+				"x" : 10.0,
+				"y" : 10.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "",
+				"sound" : "",
+				"text" : "Button"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "WaterBody2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -439.83624267578125,
+				"y" : -58.224365234375
+			},
+			"scale" : 
+			{
+				"x" : 96.400001525878906,
+				"y" : 41.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "MovableRock2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -298.5919189453125,
+				"y" : -59.929595947265625
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Waves2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -205.10882568359375,
+				"y" : -45.407943725585938
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Waves6",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -130.68548583984375,
+				"y" : -21.81024169921875
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 40.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Waves5",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -74.4141845703125,
+				"y" : -51.76116943359375
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Tree3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 10.90045166015625,
+				"y" : -141.61386108398438
+			},
+			"scale" : 
+			{
+				"x" : 8.1000003814697266,
+				"y" : 111.80000305175781
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Tree2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 138.87237548828125,
+				"y" : -160.67355346679688
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 81.599998474121094
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Home1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -444.374267578125,
+				"y" : -373.16275024414063
+			},
+			"scale" : 
+			{
+				"x" : 96.400001525878906,
+				"y" : 148.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "BearRock1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -254.11944580078125,
+				"y" : -373.96035766601563
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : 28.700000762939453,
+				"y" : 54.900001525878906
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "BearRockFlat1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -129.01336669921875,
+				"y" : -378.35540771484375
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : 28.80000114440918,
+				"y" : 56.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "MountainSide2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -16.32757568359375,
+				"y" : -381.22122192382813
+			},
+			"scale" : 
+			{
+				"x" : 59.5,
+				"y" : 99.700004577636719
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Rock2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 116.37335205078125,
+				"y" : -372.34481811523438
+			},
+			"scale" : 
+			{
+				"x" : 29.399999618530273,
+				"y" : 29.80000114440918
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "CliffRight1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -447.74560546875,
+				"y" : -549.57342529296875
+			},
+			"scale" : 
+			{
+				"x" : 29.200000762939453,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "CliffLeft1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -287.892578125,
+				"y" : -555.365234375
+			},
+			"scale" : 
+			{
+				"x" : 29.399999618530273,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Log1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -168.00469970703125,
+				"y" : -544.0301513671875
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Platform1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -31.85845947265625,
+				"y" : -558.07696533203125
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Dirt1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 125.04071044921875,
+				"y" : -548.3468017578125
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Grass3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -486.2626953125,
+				"y" : -1055.67822265625
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Grass2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 205.74176025390625,
+				"y" : -785.2098388671875
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Branch1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 48.49267578125,
+				"y" : -786.296875
+			},
+			"rotation" : 23.399999618530273,
+			"scale" : 
+			{
+				"x" : 149.19999694824219,
+				"y" : 50.100002288818359
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Fire2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -158.27618408203125,
+				"y" : -859.5125732421875
+			},
+			"scale" : 
+			{
+				"x" : 78.200004577636719,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Fire1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -363.69027709960938,
+				"y" : -844.5682373046875
+			},
+			"scale" : 
+			{
+				"x" : 68.099998474121094,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Grass1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -493.065673828125,
+				"y" : -786.840576171875
+			},
+			"scale" : 
+			{
+				"x" : 40.0,
+				"y" : 40.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -486.2626953125,
+				"y" : -1224.730712890625
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 225.80560302734375,
+				"y" : -1020.7301635742188
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 68.53887939453125,
+				"y" : -1042.5726318359375
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Flower2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -106.2017822265625,
+				"y" : -1040.3885498046875
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Flower1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -276.5738525390625,
+				"y" : -1046.9412841796875
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Sun1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 52.57110595703125,
+				"y" : -1154.57568359375
+			},
+			"scale" : 
+			{
+				"x" : 65.5,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Binding1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -117.12298583984375,
+				"y" : -1206.392333984375
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover5",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -291.8636474609375,
+				"y" : -1213.8094482421875
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cloud3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 52.203857421875,
+				"y" : -1261.2109375
+			},
+			"scale" : 
+			{
+				"x" : 83.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TutorialRT",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 268.78125,
+				"y" : -1424.2027587890625
+			},
+			"scale" : 
+			{
+				"x" : 64.5,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TutorialY",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 78.20159912109375,
+				"y" : -1406.6510009765625
+			},
+			"scale" : 
+			{
+				"x" : 47.400001525878906,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TutorialX",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -107.07110595703125,
+				"y" : -1396.54150390625
+			},
+			"scale" : 
+			{
+				"x" : 59.299999237060547,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TutorialB",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -295.87261962890625,
+				"y" : -1396.5416259765625
+			},
+			"scale" : 
+			{
+				"x" : 55.700000762939453,
+				"y" : 63.299999237060547
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TutorialA",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -504.86859130859375,
+				"y" : -1425.0672607421875
+			},
+			"scale" : 
+			{
+				"x" : 65.300003051757813,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "WaterBody5",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -627.32525634765625,
+				"y" : -1801.6920166015625
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "WaterBody4",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 119.4354248046875,
+				"y" : -1950.71533203125
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "d",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 95.17559814453125,
+				"y" : -1631.5440673828125
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -99.52276611328125,
+				"y" : -1634.072509765625
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Logo2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -299.27850341796875,
+				"y" : -1637.4654541015625
+			},
+			"scale" : 
+			{
+				"x" : 80.0,
+				"y" : 80.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Logo1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -507.48397827148438,
+				"y" : -1640.1802978515625
+			},
+			"scale" : 
+			{
+				"x" : 80.0,
+				"y" : 80.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "DirtBody1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -558.9219970703125,
+				"y" : -1978.077880859375
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "RockBody2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -200.16314697265625,
+				"y" : -2135.4609375
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "RockBody1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -507.67529296875,
+				"y" : -2142.005859375
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "GrassBody2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -94.71661376953125,
+				"y" : -1788.314208984375
+			},
+			"scale" : 
+			{
+				"x" : 204.40000915527344,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "GrassBody1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -352.99957275390625,
+				"y" : -1796.76416015625
+			},
+			"scale" : 
+			{
+				"x" : 193.5,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "DirtBody2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -226.29266357421875,
+				"y" : -1961.9417724609375
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 67.300003051757813
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Bunny",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 277.91986083984375,
+				"y" : 7.4097824096679688
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 3.0,
+					"y" : 13.800000190734863
+				}
+			},
+			"gravity" : false,
+			"model" : "Bear",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 209.76934814453125,
+				"y" : 3.9511871337890625
+			}
+		}
+	]
+}

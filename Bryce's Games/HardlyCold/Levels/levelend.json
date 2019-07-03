@@ -1,0 +1,48 @@
+{
+    "nextlevel": "",
+    "player": {
+        "x": 4,
+        "y": 10
+    },
+    "goal": {
+        "x": 35,
+        "y": 10
+    },
+    "enemies": [
+    ],
+    "text": [
+        {
+            "text": "End();",
+            "x": 128,
+            "y": 32,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWgggggggggggg",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDWgggggggggggg",
+        "WddddddddddddddddddddddddddWgggggggggggg",
+        "WddddddddddddddddddddddddddWgggggggggggg",
+        "W                          Wgggggggggggg",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWgggggggggggg",
+        "W                          Wgggggggggggg",
+        "W                          Wgggggggggggg",
+        "W                          Wgggggggggggg",
+        "W                           gggggggggggg",
+        "W                           gggggggggggg",
+        "W                           gggggggggggg",
+        "W                          wgggggggggggg",
+        "W                          Wgggggggggggg",
+        "W                          Wgggggggggggg",
+        "WwwwwwwwwwwwwwwwwwwwwwwwwwwWgggggggggggg",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDWgggggggggggg",
+        "WddddddddddddddddddddddddddWgggggggggggg",
+        "WddddddddddddddddddddddddddWgggggggggggg",
+        "W                          Wgggggggggggg",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWgggggggggggg"
+    ]
+}

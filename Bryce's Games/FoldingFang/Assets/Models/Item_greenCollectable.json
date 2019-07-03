@@ -1,0 +1,27 @@
+{
+	"meshinfo" :
+	[
+		{
+			"affine" :
+			[
+				[ 1.0, 0.0, 0.0, 0.0 ],
+				[ 0.0, 1.0, 0.0, 0.0 ],
+				[ 0.0, 0.0, 1.0, 0.0 ],
+				[ 0.0, 0.0, 0.0, 1.0 ]
+			],
+			"color" :
+			[
+				{
+					"alpha" : 1.0,
+					"blue" : 0.0,
+					"green" : 1.0,
+					"red" : 0.0
+				}
+			],
+			"meshpath" : "TestRect",
+			"name" : "TestRect"
+		}
+	],
+	"name" : "Testing GreenCollectable",
+	"version" : 2
+}

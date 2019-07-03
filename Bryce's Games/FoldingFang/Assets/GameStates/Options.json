@@ -1,0 +1,396 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"name" : "BackgroundMiddle",
+			"position" : 
+			{
+				"x" : 11.90000057220459,
+				"y" : -537.0
+			},
+			"scale" : 
+			{
+				"x" : 18.700000762939453,
+				"y" : 33.400001525878906
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -49.700000762939453,
+				"y" : 52.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 19.80000114440918,
+				"y" : 15.100000381469727
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Options"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 2.0999999046325684,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 4.1999998092651367,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.30000305175781,
+				"y" : 24.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : 12.500002861022949,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Sounds",
+				"sound" : "",
+				"text" : "Sounds"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 1.75,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 3.5,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.5,
+				"y" : -4.8000001907348633
+			},
+			"scale" : 
+			{
+				"x" : 12.0,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Video",
+				"sound" : "",
+				"text" : "Video"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 4.9000000953674316,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 9.8000001907348633,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -57.200000762939453,
+				"y" : -67.099998474121094
+			},
+			"scale" : 
+			{
+				"x" : 11.999999046325684,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "MainMenu",
+				"sound" : "",
+				"text" : "Return To Menu"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "optionbox",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 40.200000762939453,
+				"y" : -2.0999984741210938
+			},
+			"scale" : 
+			{
+				"x" : 157.0,
+				"y" : 96.200004577636719
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 22.399999618530273,
+				"y" : 33.0
+			},
+			"scale" : 
+			{
+				"x" : 9.0,
+				"y" : 8.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Sounds"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 43.0,
+				"y" : 17.80000114440918
+			},
+			"scale" : 
+			{
+				"x" : 5.4000000953674316,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "Ambience"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 43.0,
+				"y" : -2.1000001430511475
+			},
+			"scale" : 
+			{
+				"x" : 5.4000000953674316,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "Sound Effects"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 43.0,
+				"y" : -21.80000114440918
+			},
+			"scale" : 
+			{
+				"x" : 5.4000000953674316,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "Music"
+			}
+		},
+		{
+			"name" : "Slider",
+			"position" : 
+			{
+				"x" : 42.299999237060547,
+				"y" : 13.0
+			},
+			"scale" : 
+			{
+				"x" : 79.700004577636719,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"current percent" : "1.0",
+				"max value" : "1.0",
+				"setting" : "ambience",
+				"sound" : "",
+				"text" : "text"
+			}
+		},
+		{
+			"name" : "Slider",
+			"position" : 
+			{
+				"x" : 42.299999237060547,
+				"y" : -7.4000000953674316
+			},
+			"scale" : 
+			{
+				"x" : 79.699996948242188,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"current percent" : "0.99999988079071045",
+				"max value" : "1.0",
+				"setting" : "sfx",
+				"sound" : "",
+				"text" : "text"
+			}
+		},
+		{
+			"name" : "Slider",
+			"position" : 
+			{
+				"x" : 42.299999237060547,
+				"y" : -26.5
+			},
+			"scale" : 
+			{
+				"x" : 79.700004577636719,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"current percent" : "1.0",
+				"max value" : "1.0",
+				"setting" : "music",
+				"sound" : "",
+				"text" : "text"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 80.5,
+				"y" : 3.2000000476837158
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "100"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 80.5,
+				"y" : -17.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "100"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 80.5,
+				"y" : -36.299999237060547
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "100"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -2.6000001430511475,
+				"y" : 3.5
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "0"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -2.6000001430511475,
+				"y" : -16.399999618530273
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "0"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -2.6000001430511475,
+				"y" : -35.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 5.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "0"
+			}
+		}
+	]
+}

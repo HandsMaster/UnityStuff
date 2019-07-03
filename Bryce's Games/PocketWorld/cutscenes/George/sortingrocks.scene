@@ -1,0 +1,13 @@
+\p: How's that rock sorting coming along?
+\t: Fine. I've managed to find the jaggiest ones.
+\p: You're half way there.
+\j\b4Stone>01000005
+\e
+\p: Any chance you could use some more?
+\t: Always!
+\p: I've got \bStone of them.
+\t: Hand 'em over already!
+\p: Here's 50.
+\g0050Stone
+\d05Gems
+\t: Take some gems!

@@ -1,0 +1,27 @@
+{
+	"meshinfo" :
+	[
+		{
+			"affine" :
+			[
+				[ 1.0, 0.0, 0.0, 0.0 ],
+				[ 0.0, 1.0, 0.0, 0.0 ],
+				[ 0.0, 0.0, 1.0, 0.0 ],
+				[ 0.0, 0.0, 0.0, 1.0 ]
+			],
+			"color" :
+			[
+			  {
+          "alpha" : 1.0,
+					"blue" : 0.2,
+					"green" : 0.2,
+					"red" : 0.2
+				}
+			],
+			"meshpath" : "Pipedream D",
+			"name" : "Pipedream D MeshInfo"
+		}
+	],
+	"name" : "test_model_1",
+	"version" : 2
+}

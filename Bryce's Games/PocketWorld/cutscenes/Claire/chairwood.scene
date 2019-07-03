@@ -1,0 +1,28 @@
+\j\b4Wood>00750007
+\p: I got you some wood.
+\t: THAT'S not a hundred wood!
+\p: Wow, how'd you know?
+\t: I'm not dumb like you.
+\p: Harsh.
+\e
+\j\b4Wood>00990013
+\p: Here you go, a hundred wood.
+\t: Wow! That's a LOT of wood!
+\p: Yep. It's definitely a hundred, too.
+\g0076Wood
+\jtrue=true0019
+\p: I've got all your wood.
+\t: What a pile?!
+\p: Yeah, it's pretty heavy... I think I threw out my back.
+\t: Now you'll look like Grandpa George!
+\p: I don't want to think of it like that...
+\g0100Wood
+\t: Thanks, mister!
+\p: My name's \p.
+\t: Who cares?! I got a cool chair!
+\p: Uh-huh. Any chance I could get some gems or something?
+\t: What?? WHY?!
+\p: I got you a whole HUNDRED wood.
+\t: Yeah... I guess that's true... Ok, here you go.
+\d05Gems
+\fgamingchair.scene

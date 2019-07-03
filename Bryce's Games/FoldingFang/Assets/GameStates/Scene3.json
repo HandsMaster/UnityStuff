@@ -1,0 +1,1028 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"model" : "Cover1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 41.100002288818359,
+				"y" : 2.0
+			},
+			"scale" : 
+			{
+				"x" : 84.700004577636719,
+				"y" : 112.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -44.400001525878906,
+				"y" : 1.8000030517578125
+			},
+			"scale" : 
+			{
+				"x" : 84.200004577636719,
+				"y" : 112.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 37.100002288818359,
+				"y" : 1.7999954223632813
+			},
+			"scale" : 
+			{
+				"x" : 76.400001525878906,
+				"y" : 102.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -40.600002288818359,
+				"y" : 1.8000030517578125
+			},
+			"scale" : 
+			{
+				"x" : 76.400001525878906,
+				"y" : 102.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Grass2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -39.179996490478516,
+				"y" : -44.249988555908203
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "grass2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 37.289970397949219,
+				"y" : -44.299999237060547
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover5",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 37.549995422363281,
+				"y" : 5.3699913024902344
+			},
+			"scale" : 
+			{
+				"x" : 62.5,
+				"y" : 86.099998474121094
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Binding1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -1.5,
+				"y" : 2.0
+			},
+			"scale" : 
+			{
+				"x" : 1.6000000238418579,
+				"y" : 103.0
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 70.300003051757813,
+				"y" : -48.0
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "3"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 3.1499998569488525,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 6.2999997138977051,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -48.14501953125,
+				"y" : -67.700004577636719
+			},
+			"scale" : 
+			{
+				"x" : 14.5,
+				"y" : 9.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "scene4",
+				"sound" : "pageturn",
+				"text" : "Next Page"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 37.499992370605469,
+				"y" : -50.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 76.200004577636719,
+				"y" : 2.7000000476837158
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 76.300003051757813,
+				"y" : 0.10000038146972656
+			},
+			"scale" : 
+			{
+				"x" : 1.8000000715255737,
+				"y" : 104.20000457763672
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Dirt1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 37.600002288818359,
+				"y" : -34.599994659423828
+			},
+			"scale" : 
+			{
+				"x" : 62.400001525878906,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "home1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 15.039962768554688,
+				"y" : -20.609996795654297
+			},
+			"scale" : 
+			{
+				"x" : 9.5,
+				"y" : 19.200000762939453
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Grass1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 37.600002288818359,
+				"y" : -30.39000129699707
+			},
+			"scale" : 
+			{
+				"x" : 62.600002288818359,
+				"y" : 1.8000000715255737
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "sun1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 32.629981994628906,
+				"y" : 25.810020446777344
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 17.720016479492188,
+				"y" : 32.480010986328125
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 41.3900146484375,
+				"y" : 39.519985198974609
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 54.330032348632813,
+				"y" : 25.010002136230469
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 35.130035400390625,
+				"y" : 21.150009155273438
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "fox",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 17.0,
+				"y" : -23.5
+			},
+			"scale" : 
+			{
+				"x" : 0.60000002384185791,
+				"y" : 0.60000002384185791
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "bush2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 195.31613159179688,
+				"y" : -40.139450073242188
+			},
+			"scale" : 
+			{
+				"x" : 16.30000114440918,
+				"y" : 16.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Flower1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 195.27740478515625,
+				"y" : -9.8683662414550781
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "bunny",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 186.41748046875,
+				"y" : 45.632663726806641
+			},
+			"scale" : 
+			{
+				"x" : 10.0,
+				"y" : 10.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -40.799999237060547,
+				"y" : -49.900001525878906
+			},
+			"scale" : 
+			{
+				"x" : 76.800003051757813,
+				"y" : 0.90000003576278687
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "cover3",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -79.599998474121094,
+				"y" : 1.2000000476837158
+			},
+			"scale" : 
+			{
+				"x" : 0.69999998807907104,
+				"y" : 102.70000457763672
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "cover1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -1.8999999761581421,
+				"y" : -52.0
+			},
+			"scale" : 
+			{
+				"x" : 1.3999999761581421,
+				"y" : 5.0999999046325684
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "cover1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -1.4999908208847046,
+				"y" : 55.600002288818359
+			},
+			"scale" : 
+			{
+				"x" : 1.8999999761581421,
+				"y" : 5.0999999046325684
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "cover2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -42.709991455078125,
+				"y" : 3.6999969482421875
+			},
+			"scale" : 
+			{
+				"x" : 62.5,
+				"y" : 86.099998474121094
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "dirt1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -42.499996185302734,
+				"y" : -35.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 62.400001525878906,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "grass1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -42.400028228759766,
+				"y" : -31.800004959106445
+			},
+			"scale" : 
+			{
+				"x" : 62.600002288818359,
+				"y" : 1.8000000715255737
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "boss",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 48.500019073486328,
+				"y" : -24.709980010986328
+			},
+			"scale" : 
+			{
+				"x" : 6.5999999046325684,
+				"y" : 10.40000057220459
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -77.800003051757813,
+				"y" : -48.0
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "2"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : -25.799995422363281,
+				"y" : -15.600006103515625
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : -19.889991760253906,
+				"y" : -23.449981689453125
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : -30.689994812011719,
+				"y" : -23.22998046875
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "fox",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -48.600002288818359,
+				"y" : -21.350009918212891
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 6.0,
+					"y" : 4.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : -40.919998168945313,
+				"y" : -12.219995498657227
+			},
+			"scale" : 
+			{
+				"x" : 0.5,
+				"y" : 0.69999998807907104
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 6.0,
+					"y" : 4.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : -45.730003356933594,
+				"y" : -9.0099964141845703
+			},
+			"scale" : 
+			{
+				"x" : 0.5,
+				"y" : 0.69999998807907104
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 6.0,
+					"y" : 4.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : -41.620002746582031,
+				"y" : -5.8299961090087891
+			},
+			"scale" : 
+			{
+				"x" : 0.5,
+				"y" : 0.69999998807907104
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : -52.499977111816406,
+				"y" : 30.239982604980469
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : -36.119987487792969,
+				"y" : 18.059986114501953
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"y" : 2.5
+				},
+				"size" : 
+				{
+					"x" : 10.0
+				}
+			},
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : -24.779998779296875,
+				"y" : 33.179977416992188
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "SpiderBear1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 55.600002288818359,
+				"y" : -27.100000381469727
+			},
+			"scale" : 
+			{
+				"x" : -4.0,
+				"y" : 4.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "spider",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 38.979972839355469,
+				"y" : -27.500011444091797
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 59.429977416992188,
+				"y" : -10.489990234375
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 49.300003051757813,
+				"y" : -3.149993896484375
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 39.47998046875,
+				"y" : -10.499984741210938
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 22.0,
+				"y" : -13.49000072479248
+			},
+			"scale" : 
+			{
+				"x" : 1.1000000238418579,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 22.100000381469727,
+				"y" : -18.590002059936523
+			},
+			"scale" : 
+			{
+				"x" : 1.1000000238418579,
+				"y" : 1.6000000238418579
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 16.899999618530273,
+				"y" : -10.800000190734863
+			},
+			"scale" : 
+			{
+				"x" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 18.80000114440918,
+				"y" : -12.089993476867676
+			},
+			"scale" : 
+			{
+				"y" : 3.2999999523162842
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 17.899999618530273,
+				"y" : -13.699999809265137
+			},
+			"scale" : 
+			{
+				"x" : 2.2000000476837158
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 17.119993209838867,
+				"y" : -15.449994087219238
+			},
+			"scale" : 
+			{
+				"y" : 3.2999999523162842
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 17.200000762939453,
+				"y" : -18.590002059936523
+			},
+			"scale" : 
+			{
+				"x" : 1.1000000238418579,
+				"y" : 1.6000000238418579
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Flower2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -37.320018768310547,
+				"y" : -30.919994354248047
+			},
+			"scale" : 
+			{
+				"x" : 2.7000000476837158,
+				"y" : 4.9000000953674316
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "sun1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -68.589988708496094,
+				"y" : 39.339942932128906
+			},
+			"scale" : 
+			{
+				"x" : 5.8000001907348633,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "home1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -64.599998474121094,
+				"y" : -21.100000381469727
+			},
+			"scale" : 
+			{
+				"x" : 9.5,
+				"y" : 19.200000762939453
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -83.0,
+				"y" : 60.100002288818359
+			},
+			"scale" : 
+			{
+				"x" : 3.7999999523162842,
+				"y" : 6.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Chapter 2: Love at First Sight"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 13.0,
+				"y" : 60.100002288818359
+			},
+			"scale" : 
+			{
+				"x" : 4.5,
+				"y" : 6.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Chapter 3:  Thief!"
+			}
+		}
+	]
+}

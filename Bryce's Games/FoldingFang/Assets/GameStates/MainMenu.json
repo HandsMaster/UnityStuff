@@ -1,0 +1,347 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"name" : "MainMenuBackground",
+			"position" : 
+			{
+				"x" : -128.0,
+				"y" : -72.0
+			},
+			"scale" : 
+			{
+				"x" : 6.0999999046325684,
+				"y" : 4.8000001907348633
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -55.200000762939453,
+				"y" : 50.0
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "Folding Fang"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 1.3999999761581421,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 2.7999999523162842,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -118.40000152587891,
+				"y" : 22.500005722045898
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 10.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Scene1",
+				"sound" : "",
+				"text" : "Play"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 2.4500000476837158,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 4.9000000953674316,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -117.79999542236328,
+				"y" : -11.400005340576172
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 10.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Sounds",
+				"sound" : "",
+				"text" : "Options"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 3.1499998569488525,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 6.2999997138977051,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -117.80000305175781,
+				"y" : -45.800003051757813
+			},
+			"scale" : 
+			{
+				"x" : 15.000001907348633,
+				"y" : 10.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "QUIT",
+				"sound" : "",
+				"text" : "Quit Game"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 2.4500000476837158,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 4.9000000953674316,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -117.80000305175781,
+				"y" : -28.600002288818359
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 10.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Credits",
+				"sound" : "",
+				"text" : "CREDITS"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "MainMenuPlatform1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 72.500007629394531,
+				"y" : -39.300003051757813
+			},
+			"scale" : 
+			{
+				"x" : -33.200000762939453,
+				"y" : 20.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "MainMenuPlatform2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 84.199996948242188,
+				"y" : -67.499992370605469
+			},
+			"scale" : 
+			{
+				"x" : -73.0,
+				"y" : 53.5
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"size" : 
+				{
+					"x" : 2.0,
+					"y" : 2.0
+				}
+			},
+			"gravity" : false,
+			"model" : "Sakura",
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 24.800003051757813,
+				"y" : 39.407814025878906
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "fox",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 60.700000762939453,
+				"y" : -22.399999618530273
+			},
+			"rotation" : 36.900001525878906,
+			"scale" : 
+			{
+				"x" : -1.0
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 3.8499999046325684,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 7.6999998092651367,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -118.40000152587891,
+				"y" : 5.5999908447265625
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 10.0
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "HowToPlay",
+				"sound" : "",
+				"text" : "HOW TO PLAY"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 1.8000000715255737,
+				"y" : -68.099998474121094
+			},
+			"scale" : 
+			{
+				"x" : 5.2000002861022949,
+				"y" : 5.9000000953674316
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "Copyright (c) 2018 By DigiPen Corperation All Rights Reserved"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Dragon",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 4.5000076293945313,
+				"y" : -53.0
+			},
+			"scale" : 
+			{
+				"x" : -3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Torii",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 81.60003662109375,
+				"y" : 22.599998474121094
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Bear",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 106.69998168945313,
+				"y" : -18.199995040893555
+			},
+			"scale" : 
+			{
+				"x" : -2.4000000953674316,
+				"y" : 2.4000000953674316
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Bunny",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 102.89996337890625,
+				"y" : 0.20001411437988281
+			},
+			"scale" : 
+			{
+				"x" : -10.600000381469727,
+				"y" : 10.800000190734863
+			}
+		}
+	]
+}

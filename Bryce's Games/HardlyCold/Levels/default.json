@@ -1,0 +1,51 @@
+{
+    "nextlevel": "default.json",
+    "player": {
+        "x": 4,
+        "y": 2
+    },
+    "goal": {
+        "x": 36,
+        "y": 8
+    },
+    "enemies": [
+        {
+            "x": 4,
+            "y": 3,
+            "type": "basic"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "type": "basic"
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "type": "basic"
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "W        WDDDDDDDDDDDDDDDDDDDDDDDDDDDDDW",
+        "W        WdddddddddddddddddddddddddddddW",
+        "W        WdddddddddddddddddddddddddddddW",
+        "W        WdddddddddddddddddddddddddddddW",
+        "W        WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "W                                      W",
+        "W                                      W",
+        "W                                      W",
+        "W                                      W",
+        "W                                      W",
+        "WwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwW",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+}

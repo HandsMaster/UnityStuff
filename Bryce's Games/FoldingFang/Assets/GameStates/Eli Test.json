@@ -1,0 +1,27 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 10.0,
+				"y" : -114.59999847412109
+			},
+			"scale" : 
+			{
+				"x" : 1000.0,
+				"y" : 200.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Fox",
+			"position" : 
+			{
+				"y" : -4.599998950958252
+			}
+		}
+	]
+}

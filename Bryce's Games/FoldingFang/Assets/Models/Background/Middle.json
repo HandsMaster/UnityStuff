@@ -1,0 +1,119 @@
+{
+	"meshinfo" :
+	[
+		{
+			"affine" :
+			[
+				[ 1.0, 0.0, 0.0, 0.0 ],
+				[ 0.0, 1.0, 0.0, 0.0 ],
+				[ 0.0, 0.0, 1.0, 0.0 ],
+				[ 0.0, 0.0, 0.0, 1.0 ]
+			],
+			"color" :
+			[
+        {
+          "_comment": "0, sky 1",
+          "alpha": 1.0,
+          "red": 0.827,
+          "green": 0.953,
+          "blue": 1.0
+        },
+        {
+          "_comment": "sky 2",
+          "alpha": 1.0,
+          "red": 0.639,
+          "green": 0.910,
+          "blue": 1.0
+        },
+        {
+          "_comment": "sky 3",
+          "alpha": 1.0,
+          "red": 0.384,
+          "green": 0.871,
+          "blue": 0.992
+        },
+        {
+          "_comment": "sky 4",
+          "alpha": 1.0,
+          "red": 0.0,
+          "green": 0.702,
+          "blue": 0.878
+        },
+        {
+          "_comment": "4, mountains 1",
+          "alpha": 1.0,
+          "red": 0.941,
+          "green": 0.749,
+          "blue": 0.651
+        },
+        {
+          "_comment": "mountains 2",
+          "alpha": 1.0,
+          "red": 0.824,
+          "green": 0.62,
+          "blue": 0.557
+        },
+        {
+          "_comment": "mountains 3",
+          "alpha": 1.0,
+          "red": 0.694,
+          "green": 0.518,
+          "blue": 0.467
+        },
+        {
+          "_comment": "mountains 4",
+          "alpha": 1.0,
+          "red": 0.576,
+          "green": 0.427,
+          "blue": 0.384
+        },
+        {
+          "_comment": "8, clouds 1, 190 222 240",
+          "alpha": 1.0,
+          "red": 0.75,
+          "green": 0.87,
+          "blue": 0.94
+        },
+        {
+          "_comment": "clouds 2, 189 224 255",
+          "alpha": 1.0,
+          "red": 0.74,
+          "green": 0.89,
+          "blue": 1.0
+        },
+        {
+          "_comment": "clouds 3",
+          "alpha": 1.0,
+          "red": 0.894,
+          "green": 0.969,
+          "blue": 1.0
+        },
+        {
+          "_comment": "clouds 4",
+          "alpha": 1.0,
+          "red": 0.816,
+          "green": 0.882,
+          "blue": 0.933
+        },
+        {
+          "_comment": "12, torii 1",
+          "alpha": 1.0,
+          "red": 1.0,
+          "green": 0.208,
+          "blue": 0.263
+        },
+        {
+          "_comment": "torii 2",
+          "alpha": 1.0,
+          "red": 0.867,
+          "green": 0.129,
+          "blue": 0.22
+        }
+			],
+			"meshpath" : "Background/Middle",
+			"name" : "Middle"
+		}
+	],
+	"name" : "Background Middle",
+	"version" : 2
+}

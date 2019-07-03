@@ -1,0 +1,139 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 49.900001525878906,
+				"y" : -52.0
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 30.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -59.900001525878906,
+				"y" : -55.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 22.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -77.400001525878906,
+				"y" : -59.299999237060547
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -134.80000305175781,
+				"y" : -62.700000762939453
+			},
+			"scale" : 
+			{
+				"x" : 100.0,
+				"y" : 8.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 174.69999694824219,
+				"y" : -43.600002288818359
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 45.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 224.30000305175781,
+				"y" : -15.5
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 100.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 348.70001220703125,
+				"y" : -40.0
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -419.20001220703125,
+				"y" : -112.30000305175781
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 150.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -69.300003051757813,
+				"y" : -172.69999694824219
+			},
+			"scale" : 
+			{
+				"x" : 500.0,
+				"y" : 30.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Fox",
+			"position" : 
+			{
+				"y" : -27.000001907348633
+			}
+		}
+	]
+}

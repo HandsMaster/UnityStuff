@@ -1,0 +1,10 @@
+{
+	"name" : "AllAnimations",
+	"version" : 2,
+  "Animation":
+  [
+    "Error",
+    "FoxTest",
+    "BearTest"
+  ]
+}

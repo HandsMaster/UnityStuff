@@ -1,0 +1,12 @@
+\j\b4Stone=00000008
+\p: Here you go. One rock.
+\t: Oh, well this rock's not smooth at all!
+\p: So...
+\t: So get me a smooth one!
+\g0001Stone
+\frockhunting2.scene
+\e
+\p: What was it you needed again?
+\t: A smooth stone for my wife.
+\p: Got it. A rock.
+\t: Preferably smooth.

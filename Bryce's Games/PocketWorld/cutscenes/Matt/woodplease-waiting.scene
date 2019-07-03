@@ -1,0 +1,18 @@
+\j\b4Wood!00000008
+\p: So how much wood do you need?
+\t: I think about 5 should do it.
+\p: 5... what? Grams?
+\t: No, silly.
+\t: 5 wood.
+\p: Riiiiiiight.
+\e
+\j\b4Wood>00040014
+\t: Looks like you've got \bWood wood.
+\p: So, we good?
+\t: Not yet, I need 5 wood.
+\p: Thanks for the reminder.
+\e
+\p: Here's 5... wood units.
+\t: Excellent! Thank you for the help.
+\g0005Wood
+\fheresagift.scene

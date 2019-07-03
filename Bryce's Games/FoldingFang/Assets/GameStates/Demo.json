@@ -1,0 +1,2083 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : true,
+			"name" : "Fox",
+			"position" : 
+			{
+				"x" : -66.800003051757813,
+				"y" : -21.0
+			},
+			"scale" : 
+			{
+				"y" : 0.89999997615814209
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -501.70001220703125,
+				"y" : -32.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : 200.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -450.0,
+				"y" : -4.5
+			},
+			"scale" : 
+			{
+				"x" : 10.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -400.0
+			},
+			"scale" : 
+			{
+				"x" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 425.5,
+				"y" : -89.0
+			},
+			"scale" : 
+			{
+				"x" : 100.0,
+				"y" : 120.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 266.0,
+				"y" : -180.0
+			},
+			"scale" : 
+			{
+				"x" : 71.400001525878906,
+				"y" : 300.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 651.70001220703125,
+				"y" : -229.69999694824219
+			},
+			"scale" : 
+			{
+				"x" : 84.400001525878906,
+				"y" : 200.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Box",
+			"position" : 
+			{
+				"x" : 569.60003662109375,
+				"y" : 21.0
+			},
+			"scale" : 
+			{
+				"x" : 60.0,
+				"y" : 100.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 893.9000244140625,
+				"y" : -180.0
+			},
+			"scale" : 
+			{
+				"x" : 400.0,
+				"y" : 300.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 287.89999389648438,
+				"y" : 25.399999618530273
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 405.10000610351563,
+				"y" : 65.5
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 337.39999389648438,
+				"y" : 91.900001525878906
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 381.89999389648438,
+				"y" : 138.5
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 336.10000610351563,
+				"y" : -215.5
+			},
+			"scale" : 
+			{
+				"x" : 80.0,
+				"y" : 230.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1062.5999755859375,
+				"y" : -20.0
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 722.79998779296875,
+				"y" : 40.299999237060547
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 892.29998779296875,
+				"y" : 96.599998474121094
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 977.5,
+				"y" : 91.300003051757813
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 849.9000244140625,
+				"y" : 122.20000457763672
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -62.5,
+				"y" : -180.0
+			},
+			"scale" : 
+			{
+				"x" : 75.0,
+				"y" : 300.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -150.0,
+				"y" : -0.90000003576278687
+			},
+			"scale" : 
+			{
+				"x" : 100.0,
+				"y" : 500.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 80.800003051757813,
+				"y" : -180.0
+			},
+			"scale" : 
+			{
+				"x" : 150.0,
+				"y" : 300.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1349.800048828125,
+				"y" : -121.30000305175781
+			},
+			"scale" : 
+			{
+				"x" : 250.0,
+				"y" : 150.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1274.0,
+				"y" : -303.20001220703125
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 100.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1521.300048828125,
+				"y" : -271.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1505.5999755859375,
+				"y" : -301.89999389648438
+			},
+			"scale" : 
+			{
+				"x" : 65.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1238.7000732421875,
+				"y" : 188.90000915527344
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1289.2000732421875,
+				"y" : 34.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1408.2000732421875,
+				"y" : 72.300003051757813
+			},
+			"scale" : 
+			{
+				"x" : 90.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1314.4000244140625,
+				"y" : 181.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 100.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1601.300048828125,
+				"y" : -178.90000915527344
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 400.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1825.800048828125,
+				"y" : -428.0
+			},
+			"scale" : 
+			{
+				"x" : 500.0,
+				"y" : 100.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1751.7000732421875,
+				"y" : 189.0
+			},
+			"scale" : 
+			{
+				"x" : 150.0,
+				"y" : 35.0
+			}
+		},
+		{
+			"name" : "BackgroundMiddle",
+			"position" : 
+			{
+				"x" : -100.0,
+				"y" : -600.0
+			},
+			"scale" : 
+			{
+				"x" : 10.0,
+				"y" : 10.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Death",
+			"position" : 
+			{
+				"x" : 84.200004577636719,
+				"y" : -200.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 500.0,
+				"y" : 26.30000114440918
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Death",
+			"position" : 
+			{
+				"x" : 1236.7000732421875,
+				"y" : -392.80001831054688
+			},
+			"scale" : 
+			{
+				"x" : 1000.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"name" : "HUD Health",
+			"position" : 
+			{
+				"x" : -0.95999997854232788,
+				"y" : 0.89999997615814209
+			},
+			"scale" : 
+			{
+				"x" : 0.0060000000521540642,
+				"y" : 0.014999999664723873
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 384.30001831054688,
+				"y" : 164.19999694824219
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 310.70001220703125,
+				"y" : -93.700004577636719
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 1270.5,
+				"y" : -231.69999694824219
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Spider",
+			"position" : 
+			{
+				"x" : 847.89569091796875,
+				"y" : -25.5
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "SpiderV",
+			"position" : 
+			{
+				"x" : 1292.300048828125,
+				"y" : 4.4651708602905273
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 1000.0,
+				"y" : 18.30000114440918
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 964.60003662109375,
+				"y" : 14.40000057220459
+			},
+			"scale" : 
+			{
+				"x" : 30.0,
+				"y" : 90.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1326.5999755859375,
+				"y" : 207.10000610351563
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 2050.800048828125,
+				"y" : -104.20000457763672
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 555.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1801.2000732421875,
+				"y" : 11.100000381469727
+			},
+			"scale" : 
+			{
+				"x" : 350.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1850.9000244140625,
+				"y" : -150.0
+			},
+			"scale" : 
+			{
+				"x" : 350.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1687.0,
+				"y" : 46.100002288818359
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1687.0,
+				"y" : 96.0
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1687.0,
+				"y" : 146.0
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 2001.5,
+				"y" : 11.0
+			},
+			"scale" : 
+			{
+				"x" : 51.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1651.0999755859375,
+				"y" : -150.0
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 20.100000381469727
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1390.5999755859375,
+				"y" : -333.80001831054688
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1551.5,
+				"y" : -169.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1486.0,
+				"y" : 294.30001831054688
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1639.5,
+				"y" : 311.89999389648438
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1917.0999755859375,
+				"y" : 384.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1828.2000732421875,
+				"y" : 481.30001831054688
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1742.0,
+				"y" : 370.10000610351563
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 2050.60009765625,
+				"y" : 455.10000610351563
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 500.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 2000.5999755859375,
+				"y" : 189.0
+			},
+			"scale" : 
+			{
+				"x" : 150.0,
+				"y" : 35.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1876.300048828125,
+				"y" : 196.5
+			},
+			"scale" : 
+			{
+				"x" : 100.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1548.0,
+				"y" : -127.09999847412109
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Gold",
+			"position" : 
+			{
+				"x" : 1832.0999755859375,
+				"y" : 503.10000610351563
+			},
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1873.9000244140625,
+				"y" : 174.69999694824219
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Spider",
+			"position" : 
+			{
+				"x" : 1785.748291015625,
+				"y" : 25.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Spider",
+			"position" : 
+			{
+				"x" : 1873.043701171875,
+				"y" : 25.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Spider",
+			"position" : 
+			{
+				"x" : 1932.150146484375,
+				"y" : 25.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1800.0,
+				"y" : 100.0
+			},
+			"scale" : 
+			{
+				"x" : 35.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1948.7000732421875,
+				"y" : 100.0
+			},
+			"scale" : 
+			{
+				"x" : 35.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1874.0,
+				"y" : 144.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 35.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1731.5999755859375,
+				"y" : 63.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : 35.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1810.5,
+				"y" : 40.900001525878906
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1916.5999755859375,
+				"y" : 40.100002288818359
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 2000.0,
+				"y" : -10.0
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 1718.7000732421875,
+				"y" : -185.0
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.5
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Boss",
+			"position" : 
+			{
+				"x" : 1963.022705078125,
+				"y" : -353.0
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1782.5,
+				"y" : -280.0
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1928.4000244140625,
+				"y" : -280.0
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 2000.0,
+				"y" : -185.0
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 1858.4000244140625,
+				"y" : -185.0
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1880.7000732421875,
+				"y" : -372.20001220703125
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1703.2000732421875,
+				"y" : -372.70001220703125
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Box",
+			"position" : 
+			{
+				"x" : 1791.5,
+				"y" : -27.500001907348633
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 25.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Box",
+			"position" : 
+			{
+				"x" : 1740.5,
+				"y" : -130.0
+			},
+			"scale" : 
+			{
+				"x" : 30.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Box",
+			"position" : 
+			{
+				"x" : 1868.0,
+				"y" : -119.40000152587891
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 40.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1976.9000244140625,
+				"y" : -134.5
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1937.0,
+				"y" : -90.700004577636719
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 101.59999847412109
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1686.0,
+				"y" : -41.700000762939453
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 38.200000762939453
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1686.0,
+				"y" : -100.0
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 80.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1734.5,
+				"y" : -18.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 40.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1868.0,
+				"y" : -49.100002288818359
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 101.20000457763672
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1792.5,
+				"y" : -90.0
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 100.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1652.4000244140625,
+				"y" : -12.100000381469727
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1937.0,
+				"y" : -19.700000762939453
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 41.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1686.0,
+				"y" : -11.0
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 25.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 498.70001220703125,
+				"y" : -61.600002288818359
+			},
+			"scale" : 
+			{
+				"x" : 46.5,
+				"y" : 65.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 492.70001220703125,
+				"y" : -244.0
+			},
+			"scale" : 
+			{
+				"x" : 250.0,
+				"y" : 200.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 499.5,
+				"y" : -129.10000610351563
+			},
+			"scale" : 
+			{
+				"x" : 48.0,
+				"y" : 30.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 510.39999389648438,
+				"y" : -108.30000305175781
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 488.20001220703125,
+				"y" : -106.30000305175781
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1191.800048828125,
+				"y" : 144.19999694824219
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 2013.2000732421875,
+				"y" : 248.19999694824219
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 85.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1957.0,
+				"y" : 230.0
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 50.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1912.300048828125,
+				"y" : 339.20001220703125
+			},
+			"scale" : 
+			{
+				"x" : 60.0,
+				"y" : 10.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1748.9000244140625,
+				"y" : 246.40000915527344
+			},
+			"scale" : 
+			{
+				"x" : 100.0,
+				"y" : 80.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1565.5999755859375,
+				"y" : -138.90000915527344
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1502.7000732421875,
+				"y" : -166.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 1.5,
+				"y" : 1.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1837.300048828125,
+				"y" : 363.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1428.4000244140625,
+				"y" : 227.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 425.30001831054688,
+				"y" : -6.9000000953674316
+			},
+			"scale" : 
+			{
+				"x" : 40.0,
+				"y" : 45.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 567.0,
+				"y" : -89.0
+			},
+			"scale" : 
+			{
+				"x" : 90.0,
+				"y" : 120.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 804.70001220703125,
+				"y" : 76.800003051757813
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1115.0,
+				"y" : 113.5
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1057.0999755859375,
+				"y" : 85.800003051757813
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 764.5,
+				"y" : -23.700000762939453
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 439.80001831054688,
+				"y" : 108.30000305175781
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 352.70001220703125,
+				"y" : 41.5
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 292.39999389648438,
+				"y" : 43.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1571.5,
+				"y" : 278.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1857.300048828125,
+				"y" : 411.80001831054688
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1787.800048828125,
+				"y" : 420.0
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1900.0,
+				"y" : 447.80001831054688
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1874.0,
+				"y" : 100.0
+			},
+			"scale" : 
+			{
+				"x" : 60.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Mushroom",
+			"position" : 
+			{
+				"x" : 1747.9000244140625,
+				"y" : 292.20001220703125
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1746.300048828125,
+				"y" : 389.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1455.2000732421875,
+				"y" : 124.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 210.80000305175781
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1261.9000244140625,
+				"y" : 101.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 165.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1362.9000244140625,
+				"y" : 11.800000190734863
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1261.9000244140625,
+				"y" : -13.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 65.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "BreakableWall",
+			"position" : 
+			{
+				"x" : 1455.199951171875,
+				"y" : -13.699999809265137
+			},
+			"scale" : 
+			{
+				"x" : 5.0,
+				"y" : 65.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "SpiderV",
+			"position" : 
+			{
+				"x" : 1401.5999755859375,
+				"y" : 45.025409698486328
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1428.7000732421875,
+				"y" : 138.0
+			},
+			"scale" : 
+			{
+				"x" : 50.0,
+				"y" : 6.0
+			}
+		},
+		{
+			"gravity" : true,
+			"name" : "Box",
+			"position" : 
+			{
+				"x" : 1322.9000244140625,
+				"y" : -31.300004959106445
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 30.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Crane",
+			"position" : 
+			{
+				"x" : 1431.9000244140625,
+				"y" : 43.200000762939453
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 1295.2000732421875,
+				"y" : 144.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 1294.2000732421875,
+				"y" : 113.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 60.0,
+				"y" : 5.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "SpiderV",
+			"position" : 
+			{
+				"x" : 1285.9000244140625,
+				"y" : 94.466392517089844
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Heart",
+			"position" : 
+			{
+				"x" : 1422.4000244140625,
+				"y" : 103.40000152587891
+			},
+			"scale" : 
+			{
+				"x" : 2.0,
+				"y" : 2.5
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 854.79998779296875,
+				"y" : 50.0
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1112.800048828125,
+				"y" : 63.0
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1171.0999755859375,
+				"y" : 92.599998474121094
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1412.4000244140625,
+				"y" : 271.30001831054688
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1624.0999755859375,
+				"y" : 241.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1528.7000732421875,
+				"y" : 232.80000305175781
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1566.7000732421875,
+				"y" : 344.60000610351563
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 464.80001831054688,
+				"y" : 62.100002288818359
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : 1971.5999755859375,
+				"y" : 425.30001831054688
+			},
+			"scale" : 
+			{
+				"x" : 3.0,
+				"y" : 3.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Win",
+			"position" : 
+			{
+				"x" : 1989.9000244140625,
+				"y" : -367.70001220703125
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"position" : 
+			{
+				"x" : -300.0
+			}
+		}
+	]
+}

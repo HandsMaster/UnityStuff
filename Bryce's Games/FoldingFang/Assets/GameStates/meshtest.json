@@ -1,0 +1,14 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"name" : "Cloud",
+			"scale" : 
+			{
+				"x" : 15.0,
+				"y" : 15.0
+			}
+		}
+	]
+}

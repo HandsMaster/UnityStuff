@@ -1,0 +1,12 @@
+Man: Welcome to the cave.
+\p: Gee, thanks.
+\p: Didn't know I was in a cave.
+Man: Not many people do.
+Man: I'm \t.
+\p: What do you guys do in here?
+\t: Dig up shiny rocks, mostly.
+\t: Not many people find interest in anything else.
+\p: So, could I get you anything?
+\t: I guess some wood would be nice.
+\p: (Heh heh... Wood would.)
+\fgimmewood.scene

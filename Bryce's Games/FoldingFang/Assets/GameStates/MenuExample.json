@@ -1,0 +1,26 @@
+{
+  "GameObjects" :
+  [
+    {
+      "name" : "MainMenuBackground",
+      "scale" :
+      {
+        "x" : 128.0,
+        "y" : 72.0
+      }
+    },
+    {
+      "name" : "Text",
+      "scale" :
+      {
+        "x" : 10.0,
+        "y" : 10.0
+      },
+			"variables" :
+			{
+				"text" : "HI MOM im here",
+				"allignment" : "right"
+			}
+    }
+  ]
+}

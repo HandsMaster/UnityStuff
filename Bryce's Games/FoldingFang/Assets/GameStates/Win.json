@@ -1,0 +1,54 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"name" : "MainMenuBackground",
+			"position" : 
+			{
+				"x" : -128.0,
+				"y" : -72.0
+			},
+			"scale" : 
+			{
+				"x" : 6.0999999046325684,
+				"y" : 4.8000001907348633
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"y" : 30.0
+			},
+			"scale" : 
+			{
+				"x" : 25.0,
+				"y" : 20.0
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "you won"
+			}
+		},
+		{
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -37.299999237060547,
+				"y" : -16.0
+			},
+			"scale" : 
+			{
+				"x" : 7.5,
+				"y" : 7.5
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "MainMenu",
+				"text" : "Return to Menu"
+			}
+		}
+	]
+}

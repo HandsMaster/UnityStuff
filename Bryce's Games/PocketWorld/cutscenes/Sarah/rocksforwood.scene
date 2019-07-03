@@ -1,0 +1,25 @@
+\p: I've brought \bWood wood.
+\j\b4Wood>00090005
+\t: I'll need more than that just to start the fire!
+\p: (What kind of food are you cooking?)
+\e
+\j\b4Wood>00290010
+\t: I'll take 10!
+\g0010Wood
+\d03Stone
+\jtrue=true0022
+\j\b4Wood>00490015
+\t: I'll take 30!
+\g0030Wood
+\d10Stone
+\jtrue=true0023
+\j\b4Wood>00990020
+\t: I'll take 50!
+\g0050Wood
+\d20Stone
+\jtrue=true0023
+\t: I'll take 100!
+\g0100Wood
+\d50Stone
+\p: Wow, generous.
+\t: Thanks! It's my best quality.

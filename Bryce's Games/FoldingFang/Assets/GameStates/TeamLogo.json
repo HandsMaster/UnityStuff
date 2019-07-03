@@ -1,0 +1,105 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"model" : "TeamLogo2",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -44.300003051757813,
+				"y" : 7.4000053405761719
+			},
+			"scale" : 
+			{
+				"x" : -16.100000381469727,
+				"y" : -104.59999847412109
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TeamLogo1",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 33.400009155273438,
+				"y" : 7.9999885559082031
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : -16.100000381469727,
+				"y" : -104.59999847412109
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "TeamP",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -9.4000005722045898,
+				"y" : 34.5
+			},
+			"scale" : 
+			{
+				"x" : -48.5,
+				"y" : -50.600002288818359
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Teamd",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -1.6000003814697266,
+				"y" : -19.199995040893555
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : -48.5,
+				"y" : -50.600002288818359
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -4.9000000953674316,
+				"y" : -62.600002288818359
+			},
+			"scale" : 
+			{
+				"x" : 14.40000057220459,
+				"y" : 12.199999809265137
+			},
+			"variables" : 
+			{
+				"allignment" : "center",
+				"text" : "Paper Dream"
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "StateChangeTime",
+			"position" : 
+			{
+				"x" : 71.399993896484375,
+				"y" : 24.400001525878906
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			},
+			"variables" : 
+			{
+				"statechange" : "MainMenu",
+				"timechange" : 2.0,
+				"timeleft" : 2.0
+			}
+		}
+	]
+}

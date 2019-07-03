@@ -1,0 +1,58 @@
+{
+  "meshinfo": [
+    {
+      "affine": [
+        [ 1.0, 0.0, 0.0, 0.0 ],
+        [ 0.0, 1.0, 0.0, 0.0 ],
+        [ 0.0, 0.0, 1.0, 0.0 ],
+        [ 0.0, 0.0, 0.0, 1.0 ]
+      ],
+      "color": [
+        {
+          "_comment": "light yellow",
+          "_comment": "255 255 141",
+          "alpha": 1,
+          "red": 1,
+          "green": 1,
+          "blue": 0.55
+        },
+        {
+          "_comment": "yellow",
+          "_comment": "255 255 29",
+          "alpha": 1,
+          "red": 1,
+          "green": 1,
+          "blue": 0.11
+        },
+        {
+          "_comment": "orange",
+          "_comment": "255 207 64",
+          "alpha": 1,
+          "red": 1,
+          "green": 0.812,
+          "blue": 0.251
+        },
+        {
+          "_comment": "light brown",
+          "_comment": "242 161 0",
+          "alpha": 1,
+          "red": 0.949,
+          "green": 0.631,
+          "blue": 0
+        },
+        {
+          "_comment": "brown",
+          "_comment": "166 97 0",
+          "alpha": 1,
+          "red": 0.651,
+          "green": 0.38,
+          "blue": 0
+        }
+      ],
+      "meshpath": "Mushroom",
+      "name": "Mushroom"
+    }
+  ],
+  "name": "Mushroom",
+  "version": 2
+}

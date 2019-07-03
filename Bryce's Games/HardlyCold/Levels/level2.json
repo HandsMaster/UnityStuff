@@ -1,0 +1,64 @@
+{
+    "nextlevel": "level3.json",
+    "player": {
+        "x": 12,
+        "y": 11
+    },
+    "goal": {
+        "x": 4,
+        "y": 2
+    },
+    "enemies": [
+        {
+            "x": 4,
+            "y": 7,
+            "type": "basic",
+            "movetime": 3000
+        }
+    ],
+    "text": [
+        {
+            "text": "Level(2)::Enemies();",
+            "x": 512,
+            "y": 32,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        },
+        {
+            "text": "//Enemies will follow you if you're within line of sight",
+            "x": 96,
+            "y": 512,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "W        WDDDDDDDDDDDDDDDDDDDDDDDDDDDDDW",
+        "W        WdddddddddddddddddddddddddddddW",
+        "W        WdddddddddddddddddddddddddddddW",
+        "W        W       ddddddddddddddddddddddW",
+        "W        WWWWWWWWddddddddddddddddddddddW",
+        "W               WddddddddddddddddddddddW",
+        "W               WddddddddddddddddddddddW",
+        "W               WddddddddddddddddddddddW",
+        "Wwwww  wwwww  wwWddddddddddddddddddddddW",
+        "WDW      W      WddddddddddddddddddddddW",
+        "WdW             WddddddddddddddddddddddW",
+        "WdW      w      WddddddddddddddddddddddW",
+        "WdWwwwwwwWwwwwwwWddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "W                                      W",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+}

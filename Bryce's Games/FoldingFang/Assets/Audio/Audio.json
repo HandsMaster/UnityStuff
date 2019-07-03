@@ -1,0 +1,232 @@
+{
+  "version" : 1,
+
+  "Audio" :
+  {
+    "Music" :
+    [
+      {
+        "path" : "./Assets/Audio/Music/mus_OrigamiSample.wav",
+        "name" : "OrigamiSample"
+      },
+      {
+        "path" : "./Assets/Audio/Music/mus_menu.wav",
+        "name" : "menu"
+      }
+    ],
+    "Ambience" :
+    [
+        {
+          "path" : "./Assets/Audio/Ambience/amb_birds1.wav",
+          "name" : "birds1"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_birds2.wav",
+          "name" : "birds2"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_birds3.wav",
+          "name" : "birds3"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_crickets1.wav",
+          "name" : "crickets1"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_crickets1.wav",
+          "name" : "crickets2"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_crickets1.wav",
+          "name" : "crickets3"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_night1.wav",
+          "name" : "night1"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_night2.wav",
+          "name" : "night2"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_night3.wav",
+          "name" : "night3"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_riverbirds.wav",
+          "name" : "riverbirds"
+        },
+        {
+          "path" : "./Assets/Audio/Ambience/amb_waterfall.wav",
+          "name" : "waterfall"
+        }
+    ],
+    "Sfx" :
+    [
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_guzheng_c4.ogg",
+        "name" : "guzheng_c4"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_guzheng_g4.ogg",
+        "name" : "guzheng_g4"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_hit1.ogg",
+        "name" : "hit1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_hit2.ogg",
+        "name" : "hit2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_hit3.ogg",
+        "name" : "hit3"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_hit4.ogg",
+        "name" : "hit4"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_hit5.ogg",
+        "name" : "hit5"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paper1.ogg",
+        "name" : "paper1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paper2.ogg",
+        "name" : "paper2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paper3.ogg",
+        "name" : "paper3"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperflip1.ogg",
+        "name" : "paperflip1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperflip2.ogg",
+        "name" : "paperflip2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperflip3.ogg",
+        "name" : "paperflip3"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperflip4.ogg",
+        "name" : "paperflip4"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperflip5.ogg",
+        "name" : "paperflip5"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperhit1.ogg",
+        "name" : "paperhit1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperhit2.ogg",
+        "name" : "paperhit2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperslide1.ogg",
+        "name" : "paperslide1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperslide2.ogg",
+        "name" : "paperslide2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_paperslide3.ogg",
+        "name" : "paperslide3"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_pickup1.ogg",
+        "name" : "pickup1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_pickup2.ogg",
+        "name" : "pickup2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_pickup3.ogg",
+        "name" : "pickup3"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_pickup4.ogg",
+        "name" : "pickup4"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_rustleDirt1.ogg",
+        "name" : "rustleDirt1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_shovelDirt1.ogg",
+        "name" : "shovelDirt1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_thump1.ogg",
+        "name" : "thump1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_thump2.ogg",
+        "name" : "thump2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_thumpDirt1.ogg",
+        "name" : "thumpDirt1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_transSwish1.ogg",
+        "name" : "transeSwish1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack1.ogg",
+        "name" : "whack1"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack2.ogg",
+        "name" : "whack2"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack3.ogg",
+        "name" : "whack3"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack4.ogg",
+        "name" : "whack4"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack5.ogg",
+        "name" : "whack5"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack6.ogg",
+        "name" : "whack6"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack7.ogg",
+        "name" : "whack7"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack8.ogg",
+        "name" : "whack8"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack9.ogg",
+        "name" : "whack9"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack10.ogg",
+        "name" : "whack10"
+      },
+      {
+        "path" : "./Assets/Audio/Sounds/sfx_whack11.ogg",
+        "name" : "whack11"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+    "nextlevel": "level8.json",
+    "player": {
+        "x": 13,
+        "y": 7
+    },
+    "goal": {
+        "x": 13,
+        "y": 10
+    },
+    "enemies": [
+    ],
+    "keys": [
+        {
+            "x": 13,
+            "y": 13,
+            "color": 0
+        }
+    ],
+    "doors": [
+        {
+            "x": 13,
+            "y": 8,
+            "color": 0,
+            "open": false
+        }
+    ],
+    "text": [
+        {
+            "text": "Level(7)::Key();",
+            "x": 100,
+            "y": 64,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        },
+        {
+            "text": "//New Command: take",
+            "x": 500,
+            "y": 516,
+            "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            }
+        }
+    ],
+    "tiles": [
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "W                           dddddddddddW",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W         www www          WdddddddddddW",
+        "W         W     W          WdddddddddddW",
+        "W         W     W          WdddddddddddW",
+        "W         W     W          WdddddddddddW",
+        "W         WwwwwwW          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "W                          WdddddddddddW",
+        "WwwwwwwwwwwwwwwwwwwwwwwwwwwWdddddddddddW",
+        "WDDDDDDDDDDDDDDDDDDDDDDDDDDDdddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "WddddddddddddddddddddddddddddddddddddddW",
+        "W                                      W",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    ]
+}

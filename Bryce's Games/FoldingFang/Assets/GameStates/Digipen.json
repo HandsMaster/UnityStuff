@@ -1,0 +1,450 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -98.400001525878906,
+				"y" : 11.0
+			},
+			"scale" : 
+			{
+				"x" : 4.2000002861022949,
+				"y" : 65.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -82.100006103515625,
+				"y" : 29.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : -25.5,
+				"y" : 28.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -114.80000305175781,
+				"y" : -6.7000026702880859
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : -25.5,
+				"y" : 28.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -46.599994659423828,
+				"y" : 23.80000114440918
+			},
+			"scale" : 
+			{
+				"x" : -36.299999237060547,
+				"y" : 39.700000762939453
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -47.200000762939453,
+				"y" : 23.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : -18.399999618530273,
+				"y" : 19.80000114440918
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -20.600000381469727,
+				"y" : 18.80000114440918
+			},
+			"scale" : 
+			{
+				"x" : 8.1999998092651367,
+				"y" : 29.399999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -20.600000381469727,
+				"y" : 39.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 8.1999998092651367,
+				"y" : 6.7000002861022949
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -0.50000286102294922,
+				"y" : 18.700000762939453
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : -27.0,
+				"y" : 29.80000114440918
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 0.29999995231628418,
+				"y" : 18.700000762939453
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : -14.600000381469727,
+				"y" : 14.699999809265137
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 8.6999998092651367,
+				"y" : 2.1999993324279785
+			},
+			"scale" : 
+			{
+				"x" : 8.1000003814697266,
+				"y" : 12.0
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : -0.59999990463256836,
+				"y" : -4.7000002861022949
+			},
+			"scale" : 
+			{
+				"x" : 16.899999618530273,
+				"y" : 8.0
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 8.5,
+				"y" : -4.5
+			},
+			"rotation" : 212.0,
+			"scale" : 
+			{
+				"x" : 7.3000001907348633,
+				"y" : 7.9000000953674316
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 21.0,
+				"y" : 18.80000114440918
+			},
+			"scale" : 
+			{
+				"x" : 8.1999998092651367,
+				"y" : 29.399999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 21.0,
+				"y" : 39.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 8.1999998092651367,
+				"y" : 6.7000002861022949
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 42.5,
+				"y" : 32.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : -27.700000762939453,
+				"y" : 25.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 43.400001525878906,
+				"y" : 33.5
+			},
+			"scale" : 
+			{
+				"x" : -14.100000381469727,
+				"y" : 11.699999809265137
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 32.799999237060547,
+				"y" : 21.899999618530273
+			},
+			"scale" : 
+			{
+				"x" : 8.1999998092651367,
+				"y" : 35.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 3.6000001430511475,
+				"y" : 1.5
+			},
+			"rotation" : 270.0,
+			"scale" : 
+			{
+				"x" : 4.4000000953674316,
+				"y" : 6.2000002861022949
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 73.299995422363281,
+				"y" : 17.400001525878906
+			},
+			"scale" : 
+			{
+				"x" : -18.5,
+				"y" : 25.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 65.700004577636719,
+				"y" : 17.400001525878906
+			},
+			"rotation" : 180.0,
+			"scale" : 
+			{
+				"x" : -18.5,
+				"y" : 25.899999618530273
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 70.599998474121094,
+				"y" : 22.399999618530273
+			},
+			"rotation" : 270.0,
+			"scale" : 
+			{
+				"x" : -5.0,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 70.599998474121094,
+				"y" : 12.100000381469727
+			},
+			"rotation" : 90.0,
+			"scale" : 
+			{
+				"x" : -5.0,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "boxblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 77.400001525878906,
+				"y" : 12.100000381469727
+			},
+			"rotation" : 90.0,
+			"scale" : 
+			{
+				"x" : -5.0,
+				"y" : 11.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "P",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 96.800003051757813,
+				"y" : 17.30000114440918
+			},
+			"scale" : 
+			{
+				"x" : -24.5,
+				"y" : 26.200000762939453
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 104.5,
+				"y" : 9.9000005722045898
+			},
+			"scale" : 
+			{
+				"x" : 8.9000005722045898,
+				"y" : 11.5
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "boxblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 96.700004577636719,
+				"y" : 11.0
+			},
+			"rotation" : 90.0,
+			"scale" : 
+			{
+				"x" : -13.5,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "Pblue",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 96.599998474121094,
+				"y" : 20.100000381469727
+			},
+			"rotation" : 270.0,
+			"scale" : 
+			{
+				"x" : -5.0,
+				"y" : 6.8000001907348633
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -67.200004577636719,
+				"y" : -20.600000381469727
+			},
+			"scale" : 
+			{
+				"x" : 11.0,
+				"y" : 9.6999998092651367
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Institute Of Technology"
+			}
+		},
+		{
+			"gravity" : false,
+			"name" : "StateChangeTime",
+			"position" : 
+			{
+				"x" : 1.5999984741210938,
+				"y" : 51.800003051757813
+			},
+			"scale" : 
+			{
+				"x" : 20.0,
+				"y" : 20.0
+			},
+			"variables" : 
+			{
+				"statechange" : "TeamLogo",
+				"timechange" : 2.0,
+				"timeleft" : 2.0
+			}
+		}
+	]
+}

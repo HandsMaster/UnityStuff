@@ -1,0 +1,124 @@
+{
+	"boundingbox" : 
+	{
+		"x" : 20.0,
+		"y" : 20.0
+	},
+	"center" : 
+	{
+		"x" : 0.0,
+		"y" : 0.0
+	},
+	"face" : 
+	[
+		{
+			"color" : 2,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 1,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 1,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 2,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 4,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 2,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 1,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 0,
+			"point1" : 7,
+			"point2" : 7,
+			"point3" : 7
+		},
+		{
+			"color" : 2,
+			"point1" : 1,
+			"point2" : 2,
+			"point3" : 3
+		},
+		{
+			"color" : 3,
+			"point1" : 2,
+			"point2" : 4,
+			"point3" : 3
+		},
+		{
+			"color" : 0,
+			"point1" : 3,
+			"point2" : 5,
+			"point3" : 6
+		},
+		{
+			"color" : 1,
+			"point1" : 0,
+			"point2" : 1,
+			"point3" : 6
+		}
+	],
+	"name" : "FoxHead1",
+	"version" : 2,
+	"vertex" : 
+	[
+		{
+			"x" : 10.0,
+			"y" : 2.0
+		},
+		{
+			"x" : 4.0,
+			"y" : 6.0
+		},
+		{
+			"x" : 2.0,
+			"y" : 9.0
+		},
+		{
+			"x" : 3.5,
+			"y" : 2.5
+		},
+		{
+			"x" : 2.0,
+			"y" : 3.0
+		},
+		{
+			"x" : 0.5,
+			"y" : 3.5
+		},
+		{
+			"x" : 3.0,
+			"y" : 1.0
+		},
+		{
+			"x" : -2.0,
+			"y" : 0.0
+		}
+	]
+}

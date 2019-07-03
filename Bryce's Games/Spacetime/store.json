@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "item": "Moon",
+            "price": 1,
+            "prefabResourcePath": "StoreItems/Moon"
+        },
+        {
+            "item": "Saturn",
+            "price": 2,
+            "prefabResourcePath": "StoreItems/Saturn"
+        },
+        {
+            "item": "Neptune",
+            "price": 3,
+            "prefabResourcePath": "StoreItems/Neptune"
+        },
+        {
+            "item": "Uranus",
+            "price": 5,
+            "prefabResourcePath": "StoreItems/Uranus"
+        }
+    ],
+    "gridSize": {
+        "x": 3,
+        "y": 3
+    },
+    "itemSize": {
+        "x": 120.0,
+        "y": 100.0
+    },
+    "oddOffset": {
+        "x": 80.0,
+        "y": 8.0
+    },
+    "offsetDirection": 1
+}

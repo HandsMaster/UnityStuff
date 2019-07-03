@@ -1,0 +1,799 @@
+{
+    "credits": [
+        {
+            "text": "Paper Dream",
+            "position": {
+                "x": 0.0,
+                "y": 115.0
+            },
+            "scale": {
+                "x": 2.5,
+                "y": 2.5
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 514,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Spacetime",
+            "position": {
+                "x": 0.0,
+                "y": -45.0
+            },
+            "scale": {
+                "x": 2.700000047683716,
+                "y": 2.5
+            },
+            "bold": false,
+            "italic": true,
+            "alignment": 514,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Executives",
+            "position": {
+                "x": -468.0,
+                "y": 202.0
+            },
+            "scale": {
+                "x": 1.5,
+                "y": 1.5
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Jason Chu",
+            "position": {
+                "x": -450.0,
+                "y": 120.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "John Bauer",
+            "position": {
+                "x": -450.0,
+                "y": 55.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Samir Abu Samra",
+            "position": {
+                "x": -450.0,
+                "y": -10.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Raymond Yan",
+            "position": {
+                "x": -450.0,
+                "y": -75.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Prasanna Ghali",
+            "position": {
+                "x": -450.0,
+                "y": -140.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Michele Comair",
+            "position": {
+                "x": 0.0,
+                "y": 120.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Xin Li",
+            "position": {
+                "x": 0.0,
+                "y": 55.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Angela Kugler",
+            "position": {
+                "x": 0.0,
+                "y": -10.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Melvin Gonsalvez",
+            "position": {
+                "x": 0.0,
+                "y": -75.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Meighan McKelvey",
+            "position": {
+                "x": 0.0,
+                "y": -140.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Instructors",
+            "position": {
+                "x": -468.0,
+                "y": 202.0
+            },
+            "scale": {
+                "x": 1.5,
+                "y": 1.5
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Christopher Orth",
+            "position": {
+                "x": -465.0,
+                "y": 130.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Brigitte Samson",
+            "position": {
+                "x": -465.0,
+                "y": 75.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Jo Cronk",
+            "position": {
+                "x": -465.0,
+                "y": 25.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Pamela Mathues",
+            "position": {
+                "x": -465.0,
+                "y": -25.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Greg Dixon",
+            "position": {
+                "x": -465.0,
+                "y": -75.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Brian Schmidt",
+            "position": {
+                "x": -465.0,
+                "y": -125.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Angie Hoffman",
+            "position": {
+                "x": -465.0,
+                "y": -175.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "President",
+            "position": {
+                "x": 0.0,
+                "y": 70.0
+            },
+            "scale": {
+                "x": 1.2000000476837159,
+                "y": 1.2000000476837159
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Claude Comair",
+            "position": {
+                "x": 0.0,
+                "y": 10.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Bryce Dixon",
+            "position": {
+                "x": -300.0,
+                "y": 140.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 1.399999976158142
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Co-Producer",
+            "position": {
+                "x": -200.0,
+                "y": 50.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Technical Director",
+            "position": {
+                "x": -150.0,
+                "y": -25.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Programmer",
+            "position": {
+                "x": -75.0,
+                "y": -100.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Sena Sprague",
+            "position": {
+                "x": -375.0,
+                "y": 160.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 1.399999976158142
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Co-Producer",
+            "position": {
+                "x": -300.0,
+                "y": 90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Creative Director",
+            "position": {
+                "x": -250.0,
+                "y": 30.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Level Design",
+            "position": {
+                "x": -200.0,
+                "y": -30.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Art",
+            "position": {
+                "x": -150.0,
+                "y": -90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Playtesting",
+            "position": {
+                "x": -100.0,
+                "y": -150.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Elgin",
+            "position": {
+                "x": -300.0,
+                "y": 140.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 1.399999976158142
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Ciani",
+            "position": {
+                "x": -160.0,
+                "y": 140.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 1.399999976158142
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Audio",
+            "position": {
+                "x": -200.0,
+                "y": 50.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Lead",
+            "position": {
+                "x": -90.0,
+                "y": 50.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Music",
+            "position": {
+                "x": -130.0,
+                "y": -20.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "and",
+            "position": {
+                "x": -20.0,
+                "y": -20.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Sound",
+            "position": {
+                "x": 54.0,
+                "y": -20.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Design",
+            "position": {
+                "x": 170.0,
+                "y": -20.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Programmer",
+            "position": {
+                "x": -60.0,
+                "y": -90.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Massimiliano De Nadai Albornoz",
+            "position": {
+                "x": -440.0,
+                "y": 140.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 1.399999976158142
+            },
+            "bold": true,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Programmer",
+            "position": {
+                "x": -310.0,
+                "y": 50.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Designer",
+            "position": {
+                "x": -200.0,
+                "y": -40.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Vahe Dzhermakyan",
+            "position": {
+                "x": -400.0,
+                "y": 130.0
+            },
+            "scale": {
+                "x": 1.399999976158142,
+                "y": 1.399999976158142
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Designer",
+            "position": {
+                "x": -300.0,
+                "y": 35.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Programmer",
+            "position": {
+                "x": -220.0,
+                "y": -50.0
+            },
+            "scale": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Unity",
+            "position": {
+                "x": -400.0,
+                "y": 120.0
+            },
+            "scale": {
+                "x": 2.200000047683716,
+                "y": 2.0
+            },
+            "bold": true,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "FMOD Studio",
+            "position": {
+                "x": 10.0,
+                "y": -75.0
+            },
+            "scale": {
+                "x": 1.600000023841858,
+                "y": 1.5
+            },
+            "bold": true,
+            "italic": false,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "Firelight Technologies Pty Ltd",
+            "position": {
+                "x": 10.0,
+                "y": -135.0
+            },
+            "scale": {
+                "x": 0.800000011920929,
+                "y": 0.800000011920929
+            },
+            "bold": false,
+            "italic": true,
+            "alignment": 513,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "www.digipen.edu",
+            "position": {
+                "x": 0.0,
+                "y": 80.0
+            },
+            "scale": {
+                "x": 1.5,
+                "y": 1.5
+            },
+            "bold": false,
+            "italic": true,
+            "alignment": 514,
+            "fadeTime": 0.0
+        },
+        {
+            "text": "COPYRIGHT © 2019 BY DIGIPEN CORP, USA. ALL RIGHTS RESERVED.",
+            "position": {
+                "x": 0.0,
+                "y": -50.0
+            },
+            "scale": {
+                "x": 0.6000000238418579,
+                "y": 0.550000011920929
+            },
+            "bold": false,
+            "italic": false,
+            "alignment": 514,
+            "fadeTime": 0.0
+        }
+    ]
+}

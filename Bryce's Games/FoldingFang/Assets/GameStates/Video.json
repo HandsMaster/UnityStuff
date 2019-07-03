@@ -1,0 +1,207 @@
+{
+	"GameObjects" : 
+	[
+		{
+			"name" : "BackgroundMiddle",
+			"position" : 
+			{
+				"x" : 11.90000057220459,
+				"y" : -537.0
+			},
+			"scale" : 
+			{
+				"x" : 18.700000762939453,
+				"y" : 33.400001525878906
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : -49.700000762939453,
+				"y" : 52.799999237060547
+			},
+			"scale" : 
+			{
+				"x" : 19.80000114440918,
+				"y" : 15.100000381469727
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Options"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 2.0999999046325684,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 4.1999998092651367,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.30000305175781,
+				"y" : 24.200000762939453
+			},
+			"scale" : 
+			{
+				"x" : 12.500002861022949,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Sounds",
+				"sound" : "",
+				"text" : "Sounds"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 1.75,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 3.5,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -119.5,
+				"y" : -4.8000001907348633
+			},
+			"scale" : 
+			{
+				"x" : 12.0,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "Video",
+				"sound" : "",
+				"text" : "Video"
+			}
+		},
+		{
+			"Collider" : 
+			{
+				"offset" : 
+				{
+					"x" : 4.9000000953674316,
+					"y" : 0.5
+				},
+				"size" : 
+				{
+					"x" : 9.8000001907348633,
+					"y" : 1.3999999761581421
+				}
+			},
+			"name" : "Button",
+			"position" : 
+			{
+				"x" : -57.200000762939453,
+				"y" : -67.099998474121094
+			},
+			"scale" : 
+			{
+				"x" : 11.999999046325684,
+				"y" : 8.1000003814697266
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"changeGamestate" : "MainMenu",
+				"sound" : "",
+				"text" : "Return To Menu"
+			}
+		},
+		{
+			"gravity" : false,
+			"model" : "optionbox",
+			"name" : "Platform",
+			"position" : 
+			{
+				"x" : 40.200000762939453,
+				"y" : -2.0999984741210938
+			},
+			"scale" : 
+			{
+				"x" : 157.0,
+				"y" : 96.200004577636719
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 28.0,
+				"y" : 33.0
+			},
+			"scale" : 
+			{
+				"x" : 9.0,
+				"y" : 8.3000001907348633
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "Video"
+			}
+		},
+		{
+			"name" : "Text",
+			"position" : 
+			{
+				"x" : 23.200000762939453,
+				"y" : 17.399999618530273
+			},
+			"scale" : 
+			{
+				"x" : 5.4000000953674316,
+				"y" : 5.0999999046325684
+			},
+			"variables" : 
+			{
+				"allignment" : "left",
+				"text" : "FullScreen"
+			}
+		},
+		{
+			"name" : "Checkbox",
+			"position" : 
+			{
+				"x" : 41.600002288818359,
+				"y" : 2.7000000476837158
+			},
+			"scale" : 
+			{
+				"x" : 15.100000381469727,
+				"y" : 15.40000057220459
+			},
+			"variables" : 
+			{
+				"check-b" : 0.10000000149011612,
+				"check-g" : 1.0,
+				"check-r" : 0.10000000149011612,
+				"max rotation" : 45.0,
+				"variable" : "fullscreen"
+			}
+		}
+	]
+}

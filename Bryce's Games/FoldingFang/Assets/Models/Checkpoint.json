@@ -1,0 +1,33 @@
+{
+	"meshinfo" : 
+	[
+		{
+			"affine" : 
+			[
+				[ 1.0, 0.0, 0.0, 0.0 ],
+				[ 0.0, 1.0, 0.0, 0.0 ],
+				[ 0.0, 0.0, 1.0, 0.0 ],
+				[ 0.0, 0.0, 0.0, 1.0 ]
+			],
+			"color" : 
+			[
+				{
+					"alpha" : 0.19607843458652496,
+					"blue" : 0.0,
+					"green" : 1.0,
+					"red" : 0.0
+				},
+				{
+					"alpha" : 0.0,
+					"blue" : 0.0,
+					"green" : 0.0,
+					"red" : 0.0
+				}
+			],
+			"meshpath" : "Checkpoint",
+			"name" : "Rect"
+		}
+	],
+	"name" : "Testing Platform",
+	"version" : 2
+}

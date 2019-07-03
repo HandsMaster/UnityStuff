@@ -1,0 +1,19 @@
+\j\b4Sand>00000003
+\p: (I better get this kid some sand before he starts grinding the cave walls)
+\e
+\p: Here's some sand, \t.
+\j\b4Sand>00490012
+\t: ...
+\p: What's wrong.
+\t: This isn't all the sand.
+\t: My sandcastle was way bigger than this.
+\p: (There's no talking him out of this one)
+\p: (I better get some more sand)
+\e
+\t: Yes! My sandcastle!
+\p: Yep. That's your sandcastle.
+\t: Here! Take some rocks! Sand is way better.
+\p: Gee, thanks, kid.
+\g0050Sand
+\d50Stone
+\fsandwasfun.scene

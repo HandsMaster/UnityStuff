@@ -1,0 +1,15 @@
+\j\b4Wood>00990007
+\t: I mean, when I said we could use some wood...
+\t: I meant, like, a LOT of wood.
+\p: Like, how much is a lot?
+\t: Probably 100 wood would do it.
+\p: (Heh... wood would.)
+\e
+\p: Brought you a bunch of wood.
+\t: Thanks, pal. Take some of these shiny rocks.
+\t: There may be a few not-shiny ones mixed in, though.
+\p: Rocks are rocks, man.
+\g0100Wood
+\d15Gems
+\d35Stone
+\fshinystones.scene
